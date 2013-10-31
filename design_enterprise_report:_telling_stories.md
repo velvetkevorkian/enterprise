@@ -12,6 +12,11 @@ This is not a new problem, nor is it one that is unique to the creative technolo
 
 ##Middle bit (provisional title)
 
+###On making ideas stick
+Communicating what we do to people who have little to no awareness of the surrounding area can be problematic. Without a clear and concise explanation, the chances of them understanding what interaction design is are slim — and the chances of getting paid work from them is slimmer still. What we need is a method for making sure our message is easily understood and remembered, without sacrificing accuracy.
+
+Fortunately, there are manuals for this sort of thing. One of these is *Made to Stick*, by the brother Heath. They propose the concept of "stickiness" — 
+
 
 
 ###Case study: Quartic Llama
