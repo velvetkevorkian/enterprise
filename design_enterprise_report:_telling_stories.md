@@ -27,5 +27,5 @@ The Quartic Llama team are careful to tailor that narrative depending on who the
 
 I think this is an important point. Having a selection of messages to tell about your work, tailored to specific audiences, obviously increases the chance of your message finding a receptive audience. 
 
-Having different levels of narrative to expand to can be important too. You can't tell the exact same story in the 160 characters of a Twitter biography that you can in, say, a five minute face-to-face conversation. The layering of simple elements can create a complex overall picture, however, as noted by Heath & Heath. In fact, this is one of their key points for how make ideas "stick".
+Having different levels of narrative to expand to can be important too. You can't tell the exact same story in the 160 characters of a Twitter biography that you can in, say, a five minute face-to-face conversation. The layering of simple elements can create a complex overall picture, however, as noted by Heath & Heath (pp48). In fact, this is one of their key points for how make ideas "stick".
 
