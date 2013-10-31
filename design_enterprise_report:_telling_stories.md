@@ -25,3 +25,7 @@ The Quartic Llama team are careful to tailor that narrative depending on who the
 
 >Your image is so important. Unfortunately it takes a lot of time to get that right, and it's about being careful [about] the messages you send out there. What I do is, depending on who I'm speaking to, I'll do my research before hand. If it's a game publisher, I'll concentrate on our games. If it's an arts or cultural organisation, I'll talk about how we collaborate with people, how we're very artistic... It's about being very careful and doing that research.
 
+I think this is an important point. Having a selection of messages to tell about your work, tailored to specific audiences, obviously increases the chance of your message finding a receptive audience. 
+
+Having different levels of narrative to expand to can be important too. You can't tell the exact same story in the 160 characters of a Twitter biography that you can in, say, a five minute face-to-face conversation. The layering of simple elements can create a complex overall picture, however, as noted by Heath & Heath. In fact, this is one of their key points for how make ideas "stick".
+
