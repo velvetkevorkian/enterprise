@@ -1,5 +1,5 @@
 #Rory Gianni interview notes
-##04/11/2013: 13:00
+##04/11/2013: 13:00 - 13:50
 
 - Trained as web developer (applied computing)
 - Says it's easy to get boxed in to one discipline. 
@@ -14,3 +14,11 @@
 - Distinction between the industry/sector you're operating in and the role you're playing within that sector. In this case, Rory's role is becoming broader (more than just tech, including service design etc), while focusing on a specific sector (sustainability).
 - "cannibal hats"- spreading resources too thin. 
 - Could focusing on sustainability side be damaging to non-sustainability related opportunities? Would the increase in sustainability work compensate? 
+
+---
+
+For a different perspective, I spoke to Rory Gianni, a freelance web developer based out of Dundee's Fleet Collective. Having worked as a technology consultant for a variety of small businesses and startups, he has been moving towards working in the sustainability sector. He is a CleanWeb facilitator, a movement which aims to help solve environmental problems with a combination of technology and design skills. Unlike similar movements, such as "Green IT", they do not focus so heavily on pure engineering solutions. 
+
+This is key to Gianni's attempt to diversify his interests. Although the fact that he is focusing more on sustainability could be seen as a narrowing of his focus, bringing in elements such as service design is widening his role within that industry. This separation between the role of the individual and the industry they're operating in is key to his strategy. 
+
+Gianni noted that people's perception of you and your work can often have a more significant impact than we might think. Being seen as an organiser or facilitator, a speaker at conferences, or teaching can all make people have a different opinion of you, regardless of the the objective quality of your work. This reinforces the idea that this is fundamentally an issue of marketing. 
