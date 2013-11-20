@@ -12,10 +12,43 @@ This is not a new problem, nor is it one that is unique to the creative technolo
 
 ##Middle bit (provisional title)
 
+###What is branding?
+> Branding, in all its shapes and forms, comes down to how an organisation presents itself and, more importantly, how its audience perceives it. It has grown beyond a simple visual depiction into more of an attitude, enforced through a series of interactions a person has with any one organization [sic] (Drew, pp4).
+
+Neil Svensson says "It's about being able to establish a set of values that support your brand and making sure that everyone experiences this. The Web [sic] is just another way of communicating with your audience". (Drew, pp7)
+
+
+
 ###On making ideas stick
 Communicating what we do to people who have little to no awareness of the surrounding area can be problematic. Without a clear and concise explanation, the chances of them understanding what interaction design is are slim — and the chances of getting paid work from them is slimmer still. What we need is a method for making sure our message is easily understood and remembered, without sacrificing accuracy.
 
-Fortunately, there are manuals for this sort of thing. One of these is *Made to Stick*, by the brother Heath. They propose the concept of "stickiness" — 
+Fortunately, there are manuals for this sort of thing. One of these is *Made to Stick*, by the brothers Heath. They propose the concept of "stickiness" — ideas which are both memorable and meaningful — and offer "SUCCESs", a six point checklist for making ideas "sticky":
+
+1. Simplicity
+2. Unexpectedness
+3. Concreteness
+4. Credibility
+5. Emotions
+6. Stories
+7. s
+
+Ideas that don't follow these rules can still stay with people, and we don't necessarily have to check off every point. They do, however, provide a useful guide for how we can communicate complex concepts clearly. Let's have a look at how we can apply the SUCCESs principles to branding and presenting our portfolio website, and telling our professional story. 
+
+####Simplicity
+This is one of the key areas for me to focus on. Having an elevator pitch that is as concise as possible is one of the main things currently missing from my professional identity (such as it is). The idea of *interaction designer* or *interactive developer* or *creative technologist* are all complex, multi-level concepts with no canonical definition. Being able to break that down into something that can be understood without additional explanation is vital. It's even more difficult when you're afflicted by what the Heaths refer to as *the curse of knowledge*: once you know something, it's incredibly difficult to imagine not knowing that any more, and as a result we tend to explain things which take for granted that level of knowledge. While complex ideas can be sticky, they arise from layers of simplicity rather than assuming a higher level of knowledge from the start.
+
+####Unexpectedness
+The juxtaposition of design and technology that is the creative technologist's trademark will come in useful here. This is, perhaps, an area where having a diversified portfolio can definitely be a strength, not a weakness. 
+
+####Concreteness
+Having a portfolio online (rather than, say, just a text heavy CV) goes some way towards providing something concrete for people to relate to. Having projects which are entirely online means people can interact with them directly, increasing their value as evidence. Conversely, some of the more "designy" projects will require some thought about how they're presented to avoid being too abstract. 
+
+####Credibility
+Again, having evidence of projects in the wild, and especially some of the commercial work I've done, should provide credibility. 
+
+####Emotions
+
+####Stories
 
 
 
