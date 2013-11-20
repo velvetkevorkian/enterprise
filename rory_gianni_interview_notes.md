@@ -17,8 +17,10 @@
 
 ---
 
-For a different perspective, I spoke to Rory Gianni, a freelance web developer based out of Dundee's Fleet Collective. Having worked as a technology consultant for a variety of small businesses and startups, he has been moving towards working in the sustainability sector. He is a CleanWeb facilitator, a movement which aims to help solve environmental problems with a combination of technology and design skills. Unlike similar movements, such as "Green IT", they do not focus so heavily on pure engineering solutions. 
+For a different perspective, I spoke to Rory Gianni, a freelance web developer based out of Dundee's Fleet Collective. Having worked as a technology consultant for a variety of small businesses and startups, he has been moving towards focusing on the sustainability sector. He is also a CleanWeb facilitator, a movement which aims to help solve environmental problems with a combination of technology and design skills. Unlike similar movements, such as "Green IT", they do not focus so heavily on pure engineering solutions.
 
 This is key to Gianni's attempt to diversify his interests. Although the fact that he is focusing more on sustainability could be seen as a narrowing of his focus, bringing in elements such as service design is widening his role within that industry. This separation between the role of the individual and the industry they're operating in is key to his strategy. 
+
+He did acknowledge the potential pitfalls inherent in this strategy. In narrowing his focus to the sustainability sector, is he discouraging potential clients from outside that area? Will being seen as a specialist in that area attract enough extra work to offset that? These are questions Gianni is grappling with currently, 
 
 Gianni noted that people's perception of you and your work can often have a more significant impact than we might think. Being seen as an organiser or facilitator, a speaker at conferences, or teaching can all make people have a different opinion of you, regardless of the the objective quality of your work. This reinforces the idea that this is fundamentally an issue of marketing. 
