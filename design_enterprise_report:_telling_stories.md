@@ -13,9 +13,10 @@ This is not a new problem, nor is it one that is unique to the creative technolo
 ##Middle bit (provisional title)
 
 ###What is branding?
-> Branding, in all its shapes and forms, comes down to how an organisation presents itself and, more importantly, how its audience perceives it. It has grown beyond a simple visual depiction into more of an attitude, enforced through a series of interactions a person has with any one organization [sic] (Drew, pp4).
+> Branding, in all its shapes and forms, comes down to how an organisation presents itself and, more importantly, how its audience perceives it. It has grown beyond a simple visual depiction into more of an attitude, enforced through a series of interactions a person has with any one organization [sic] 
+(Drew, pp4).
 
-Neil Svensson says "It's about being able to establish a set of values that support your brand and making sure that everyone experiences this. The Web [sic] is just another way of communicating with your audience". (Drew, pp7)
+Neil Svensson says "It's about being able to establish a set of values that support your brand and making sure that everyone experiences this." (Drew, pp7)
 
 
 
@@ -38,7 +39,7 @@ Ideas that don't follow these rules can still stay with people, and we don't nec
 This is one of the key areas for me to focus on. Having an elevator pitch that is as concise as possible is one of the main things currently missing from my professional identity (such as it is). The idea of *interaction designer* or *interactive developer* or *creative technologist* are all complex, multi-level concepts with no canonical definition. Being able to break that down into something that can be understood without additional explanation is vital. It's even more difficult when you're afflicted by what the Heaths refer to as *the curse of knowledge*: once you know something, it's incredibly difficult to imagine not knowing that any more, and as a result we tend to explain things which take for granted that level of knowledge. While complex ideas can be sticky, they arise from layers of simplicity rather than assuming a higher level of knowledge from the start.
 
 ####Unexpectedness
-The juxtaposition of design and technology that is the creative technologist's trademark will come in useful here. This is, perhaps, an area where having a diversified portfolio can definitely be a strength, not a weakness. 
+The juxtaposition of design and technology that is the creative technologist's trademark can come in useful here. This is, perhaps, an area where having a diversified portfolio can definitely be a strength, not a weakness. 
 
 ####Concreteness
 Having a portfolio online (rather than, say, just a text heavy CV) goes some way towards providing something concrete for people to relate to. Having projects which are entirely online means people can interact with them directly, increasing their value as evidence. Conversely, some of the more "designy" projects will require some thought about how they're presented to avoid being too abstract. 
@@ -47,13 +48,13 @@ Having a portfolio online (rather than, say, just a text heavy CV) goes some way
 Again, having evidence of projects in the wild, and especially some of the commercial work I've done, should provide credibility. 
 
 ####Emotions
+This is a tricky one. What kind of emotions do I want to evoke with my portfolio (aside from "take my money!")? Awe and wonder would be ideal but depending on that would be hubristic in the extreme.
 
 ####Stories
-
-
+This is the opportunity to tie all the preceding points together. Creating a coherent overall narrative is an opportunity to put the previous points into action, while the stories of individual projects can form layers of depth which reinforce that. 
 
 ###Case study: Quartic Llama
-[Quartic Llama](http://quarticllama.com/) are a Dundee-based games studio, founded in 2012 by graduates from the University of Abertay. In addition to their, for lack of a better term, "normal" games development work, they also collaborate extensively with cultural organisations, creating games and experiences. I first came across them when their piece [*100,000 Lux*](http://www.northeastofnorth.com/?event=100000-lux) was featured as part of Dundee's 2012 NEoN festival. A site specific performance using the coloured lighting on one of Abertay University's main buildings, combined with a striking soundtrack derived from solar observations, *100,000 Lux* marked Quartic Llama out as not your average game developer. Their collaboration with the National Theatre of Scotland, *Other*, is a location based augmented reality experience set in the streets of Dundee. At first glance it has little in common with either regular games or a piece like *100,000 Lux*, but after talking with Malath Abbas, an artist, designer and one of the founders of Quartic Llama, it's easier to pull together the threads running through their work. 
+For some insight into the importance of stories and how we tell them, I got in touch with [Quartic Llama](http://quarticllama.com/), a Dundee-based games studio, founded in 2012 by graduates from the University of Abertay. In addition to their, for lack of a better term, "normal" games development work, they also collaborate extensively with cultural organisations, creating games and experiences. I first came across them when their piece [*100,000 Lux*](http://www.northeastofnorth.com/?event=100000-lux) was featured as part of Dundee's 2012 NEoN festival. A site specific performance using the coloured lighting on one of Abertay University's main buildings, combined with a striking soundtrack derived from solar observations, *100,000 Lux* marked Quartic Llama out as not your average game developer. Their collaboration with the National Theatre of Scotland, *Other*, is a location based augmented reality experience set in the streets of Dundee. At first glance it has little in common with either regular games or a piece like *100,000 Lux*, but after talking with Malath Abbas, an artist, designer and one of the founders of Quartic Llama, it's easier to pull together the threads running through their work. 
 
 The identity that Quartic Llama present on their website is actually quite enigmatic. According to Malath, this is a deliberate ploy to draw people in. For him, crafting an image is all about telling a story.
 
@@ -66,4 +67,21 @@ The Quartic Llama team are careful to tailor that narrative depending on who the
 I think this is an important point. Having a selection of messages to tell about your work, tailored to specific audiences, obviously increases the chance of your message finding a receptive audience. 
 
 Having different levels of narrative to expand to can be important too. You can't tell the exact same story in the 160 characters of a Twitter biography that you can in, say, a five minute face-to-face conversation. The layering of simple elements can create a complex overall picture, however, as noted by Heath & Heath (pp48). In fact, this is one of their key points for how make ideas "stick".
+
+
+###Case Study: Rory Gianni
+For a different perspective, I spoke to Rory Gianni, a freelance web developer based out of Dundee's Fleet Collective. Having worked as a technology consultant for a variety of small businesses and startups, he has been moving towards focusing on the sustainability sector. He is also a CleanWeb facilitator, a movement which aims to help solve environmental problems with a combination of technology and design skills. Unlike similar movements, such as "Green IT", they do not focus so heavily on pure engineering solutions, but include elements of design.
+
+This is key to Gianni's attempt to diversify his interests. Although the fact that he is focusing more on sustainability could be seen as a narrowing of his focus, bringing in elements such as service design is widening his role within that sector. This separation between the role of the individual and the industry they're operating in is key to his strategy.  
+
+He did acknowledge the potential pitfalls inherent in this tactic. In narrowing his focus to the sustainability sector, is he discouraging potential clients from outside that area? Will being seen as a specialist in that area attract enough extra work to offset that? These are questions Gianni is grappling with currently, 
+
+Gianni noted that people's perception of you and your work can often have a more significant impact than we might think. Being seen as an organiser or facilitator, a speaker at conferences, or teaching can all make people have a different opinion of you, regardless of the the objective quality of your work. This reinforces the idea that this is fundamentally an issue of marketing
+
+
+
+
+------
+##Bibliography
+- Drew, Keith | Online branding | London: Laurence King, 2002
 
