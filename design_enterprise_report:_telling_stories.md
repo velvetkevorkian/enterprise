@@ -12,13 +12,6 @@ This is not a new problem, nor is it one that is unique to the creative technolo
 
 ##Middle bit (provisional title)
 
-###What is branding?
-> Branding, in all its shapes and forms, comes down to how an organisation presents itself and, more importantly, how its audience perceives it. It has grown beyond a simple visual depiction into more of an attitude, enforced through a series of interactions a person has with any one organization [sic] 
-(Drew, pp4).
-
-Neil Svensson says "It's about being able to establish a set of values that support your brand and making sure that everyone experiences this." (Drew, pp7)
-
-
 
 ###On making ideas stick
 Communicating what we do to people who have little to no awareness of the surrounding area can be problematic. Without a clear and concise explanation, the chances of them understanding what interaction design is are slim — and the chances of getting paid work from them is slimmer still. What we need is a method for making sure our message is easily understood and remembered, without sacrificing accuracy.
@@ -76,7 +69,32 @@ This is key to Gianni's attempt to diversify his interests. Although the fact th
 
 He did acknowledge the potential pitfalls inherent in this tactic. In narrowing his focus to the sustainability sector, is he discouraging potential clients from outside that area? Will being seen as a specialist in that area attract enough extra work to offset that? These are questions Gianni is grappling with currently, 
 
-Gianni noted that people's perception of you and your work can often have a more significant impact than we might think. Being seen as an organiser or facilitator, a speaker at conferences, or teaching can all make people have a different opinion of you, regardless of the the objective quality of your work. This reinforces the idea that this is fundamentally an issue of marketing
+Gianni noted that people's perception of you and your work can often have a more significant impact than we might think. Being seen as an organiser or facilitator, a speaker at conferences, or teaching can all make people have a different opinion of you, regardless of the the objective quality of your work. This speaks to the idea of concreteness as suggested by the Heath brothers: if people can associate your work with something they've personally experienced, that can be a big win. 
+
+
+###What is branding?
+Fundamentally, the issue at stake here is a matter of branding and marketing.  What elements go into making a brand successful, and how relevant are they to a freelance worker's professional identity?
+
+> Branding, in all its shapes and forms, comes down to how an organisation presents itself and, more importantly, how its audience perceives it. It has grown beyond a simple visual depiction into more of an attitude, enforced through a series of interactions a person has with any one organization [sic] (Drew, pp4).
+
+So, for our purposes, we can think of it as an issue of communication design. What do we need to communicate? 
+
+- What we do
+- What we've done
+- Why you would want us to do it for you. 
+
+How can we communicate complex ideas and information? As we've established, stories are the key.
+
+>Brands start with a great idea that tells a good story. Everybody understands a story — stories cross borders, and they connect generations, class and cultures. Stories are created for their audience and this is what makes them powerful. The story — or narrative — behind a brand is its backbone.  
+
+> Brands often struggle with trying to be all things to all people. One simple story will help focus the aims of the brand or the brand project and create a single goal. Stories help create simplicity out of complexity by defining a single route through a maze of possibilities, and it is the designer who must translate the story into the visual element and execution. (Davis, pp76)
+
+
+###Benchmarking
+
+
+###Applications
+How 
 
 
 
@@ -84,4 +102,6 @@ Gianni noted that people's perception of you and your work can often have a more
 ------
 ##Bibliography
 - Drew, Keith | Online branding | London: Laurence King, 2002
+- Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
+- Heath, Chip | Made to stick: why some ideas take hold and others come unstuck |  London: Arrow Books, 2008
 
