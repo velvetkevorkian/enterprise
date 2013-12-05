@@ -126,7 +126,7 @@ So, for our purposes, we can think of it as an issue of communication design. Wh
 How can we communicate complex ideas and information? As we've established, stories are the key.
 
 > Brands start with a great idea that tells a good story. Everybody understands a story — stories cross borders, and they connect generations, class and cultures. Stories are created for their audience and this is what makes them powerful. The story — or narrative — behind a brand is its backbone.  
-
+<br>    
 > Brands often struggle with trying to be all things to all people. One simple story will help focus the aims of the brand or the brand project and create a single goal. Stories help create simplicity out of complexity by defining a single route through a maze of possibilities, and it is the designer who must translate the story into the visual element and execution. (Davis, pp76)
 
 As we've seen before, stories are key to communication. For many brands, the way stories are told is tightly managed so as to reinforce the main narrative. During my internship in summer 2013, the client I worked with was a major UK telecoms company, who run regular tone-of-voice workshops for all employees. This ensures a single consistent narrative for all the company's communications, regardless of which employee wrote a particular piece or what department they work for. 
@@ -144,15 +144,14 @@ Before any design or development project can begin there is a design phase [*des
 
 The presence in question has only had a couple of opportunities to be effective, the most significant being when I successfully applied for an internship with the branding agency Lambie-Nairn. To say that they have a significant amount of experience in creating and designing brands would be an understatement. David Stockfis, who is now a freelance designer but was the design director at Lambie-Nairn in charge of the project, provided some valuable feedback:
 
->Personal branding's tricky. And somewhat subjective. Some people/studios love a high-impact over-the-top approach such as http://www.rleonardi.com/interactive-resume/ I personally prefer a much simpler/pared back style e.g not much of a personal brand, simple website or pdf showing your best work, up-to-date LinkedIn etc.
-
+>Personal branding's tricky. And somewhat subjective. Some people/studios love a high-impact over-the-top approach... I personally prefer a much simpler/pared back style e.g not much of a personal brand, simple website or pdf showing your best work, up-to-date LinkedIn etc.     
+<br>
 >I like Kyle's no-nonsense personality, honesty and wit. I think it's important that side of him is visible in his profile and I think it'll help him stand out.
-
+<br>     
 >For employability I'd suggest he's a bit more prescriptive about his skill set. On his website he talks about 'Making design/web/code/art/sound things.' and 'Finely Crafted Electrons'. It's not really clear that he could knock you up an awesome website. I think he should show some of his work on the homepage too.
+<br>    
+>He might want to look at re-ordering the projects in his portfolio/website as well, depending on the direction he wants to take. If he's looking for more experimental/advanced tech positions keep those first or more commercial web development maybe re-shuffle those to the top etc.
 
->He might want to look at re-ordering the projects in his portfolio/website as well, depending on the direction he wants to take. If he's looking for more experimental /advanced tech positions keep those first or more commercial web development maybe re-shuffle those to the top etc.
-
->I can't comment on whether the test project clinched it for Kyle or not, but I seem to remember Anthony being suitably impressed.
 
 _______
 
