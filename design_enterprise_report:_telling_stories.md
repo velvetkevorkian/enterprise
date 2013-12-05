@@ -1,5 +1,31 @@
 #Design Enterprise Report: Telling Stories
 
+##Title page
+
+----
+
+##Table of contents
+
+----
+
+##Acknowledgements
+
+----
+
+##Executive Summary 
+This report will:
+- Examine creative technology in its current form and the difficulties its ephemeral and ill-defined nature presents to practitioners and clients.  
+- Take a brief introduction to branding and how it can be applied to creative freelancers.
+- See how branding is mainly a matter of telling stories and communicating ideas, and look at some methods for communicating in ways that are clear and memorable.
+- Look at some case studies of people and studios who work across different disciplines, and see how they bridge the gaps between them and how they communicate their stories.
+- Examine the author's current branding strategy,benchmark its effectiveness, and present a revised strategy for a coherent, professional brand identity.
+- Show evidence of how that strategy can be executed. 
+
+
+ 
+
+---
+
 ##Introduction
 Working at the intersection of design and technology is not for the faint of heart. The tools and systems in use are constantly evolving. Entire categories of jobs exist which were unthinkable just a few years ago. Many of us entering the industry are doing so with combinations of skills that the job titles generally conferred on people do not adequately describe. In my own field of interaction design and creative technology, there is a spectrum of people, from those who work almost entirely in with early stage wireframes and user journeys at one end, to those coding large scale interactive experiences at the other — and that's without thinking about where those skills overlap in the middle. 
 
@@ -7,7 +33,7 @@ The problem for anyone trying to enter this area, then, is essentially one of br
 
 This is not a new problem, nor is it one that is unique to the creative technology field. My objective is to investigate how other people have addressed the problems inherent in being trans-disciplinary, and how we can apply those lessons in the modern interaction design/creative technology field. The end product will be a plan for applying those lessons in my own post-university practice, and demonstrate some practical applications. I'll also examine some more general issues that arise, with  a particular focus on how they will apply to a business working with creative technology. 
 
-
+----
 
 
 ##Middle bit (provisional title)
@@ -85,17 +111,25 @@ So, for our purposes, we can think of it as an issue of communication design. Wh
 
 How can we communicate complex ideas and information? As we've established, stories are the key.
 
->Brands start with a great idea that tells a good story. Everybody understands a story — stories cross borders, and they connect generations, class and cultures. Stories are created for their audience and this is what makes them powerful. The story — or narrative — behind a brand is its backbone.  
+> Brands start with a great idea that tells a good story. Everybody understands a story — stories cross borders, and they connect generations, class and cultures. Stories are created for their audience and this is what makes them powerful. The story — or narrative — behind a brand is its backbone.  
 
 > Brands often struggle with trying to be all things to all people. One simple story will help focus the aims of the brand or the brand project and create a single goal. Stories help create simplicity out of complexity by defining a single route through a maze of possibilities, and it is the designer who must translate the story into the visual element and execution. (Davis, pp76)
 
+As we've seen before, stories are key to communication. For many brands, the way stories are told is tightly managed so as to reinforce the main narrative. During my internship in summer 2013, the client I worked with was a major UK telecoms company, who run regular tone-of-voice workshops for all employees. This ensures a single consistent narrative for all the company's communications, regardless of which employee wrote a particular piece or what department they work for. 
 
-###Benchmarking
+This consistency extends across any visual design elements too, of course. For most people this is probably what they think of when "branding" is mentioned: the look and feel of a product or service. 
 
 
-###Applications
-How 
 
+
+###Application
+We've established what a brand is, why we would want one and how they can be communicated. How can we apply that to my own personal and professional brand? First we'll have a look at my current brand identity, such as it is, and then try and put into practice some of the lessons we've learned. 
+
+####Benchmarking
+First we need to assess how effective my current presence is. 
+_______
+
+##Conclusion
 
 
 
@@ -104,4 +138,9 @@ How
 - Drew, Keith | Online branding | London: Laurence King, 2002
 - Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
 - Heath, Chip | Made to stick: why some ideas take hold and others come unstuck |  London: Arrow Books, 2008
+
+--------
+
+##Appendices
+
 
