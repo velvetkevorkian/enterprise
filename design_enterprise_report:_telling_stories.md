@@ -1,3 +1,14 @@
+#To do: 
+- go through and remove personal pronouns where possible
+- anecdotal stuff from internship: importance of linked in, connections etc
+- copy relevant bits of bibliography from proposal
+- work in nesta toolkit somewhere
+- think about presentation — something interactive would be cool, but it does have to work on paper (ask mike?)
+
+
+
+
+
 #Design Enterprise Report: Telling Stories
 
 ##Title page
@@ -14,6 +25,7 @@
 
 ##Executive Summary 
 This report will:
+
 - Examine creative technology in its current form and the difficulties its ephemeral and ill-defined nature presents to practitioners and clients.  
 - Take a brief introduction to branding and how it can be applied to creative freelancers.
 - See how branding is mainly a matter of telling stories and communicating ideas, and look at some methods for communicating in ways that are clear and memorable.
@@ -37,6 +49,8 @@ This is not a new problem, nor is it one that is unique to the creative technolo
 
 
 ##Middle bit (provisional title)
+
+reorder: what is branding/case studies/made to stick/benchmarking etc
 
 
 ###On making ideas stick
@@ -126,7 +140,7 @@ This consistency extends across any visual design elements too, of course. For m
 We've established what a brand is, why we would want one and how they can be communicated. How can we apply that to my own personal and professional brand? First we'll have a look at my current brand identity, such as it is, and then try and put into practice some of the lessons we've learned. 
 
 ####Benchmarking
-First we need to assess how effective my current presence is. 
+Before any design or development project can begin there is a design phase [*design is a job ref?*] First we need to assess how effective the current presence is, before working on a solution. The presence in question has only had a couple of opportunities to be effective
 _______
 
 ##Conclusion
