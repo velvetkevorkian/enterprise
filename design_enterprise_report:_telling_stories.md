@@ -140,7 +140,20 @@ This consistency extends across any visual design elements too, of course. For m
 We've established what a brand is, why we would want one and how they can be communicated. How can we apply that to my own personal and professional brand? First we'll have a look at my current brand identity, such as it is, and then try and put into practice some of the lessons we've learned. 
 
 ####Benchmarking
-Before any design or development project can begin there is a design phase [*design is a job ref?*] First we need to assess how effective the current presence is, before working on a solution. The presence in question has only had a couple of opportunities to be effective
+Before any design or development project can begin there is a design phase [*design is a job ref?*] First the current presence needs to be assessed to establish how effective it is, before a solution can be proposed.
+
+The presence in question has only had a couple of opportunities to be effective, the most significant being when I successfully applied for an internship with the branding agency Lambie-Nairn. To say that they have a significant amount of experience in creating and designing brands would be an understatement. David Stockfis, who is now a freelance designer but was the design director at Lambie-Nairn in charge of the project, provided some valuable feedback:
+
+>Personal branding's tricky. And somewhat subjective. Some people/studios love a high-impact over-the-top approach such as http://www.rleonardi.com/interactive-resume/ I personally prefer a much simpler/pared back style e.g not much of a personal brand, simple website or pdf showing your best work, up-to-date LinkedIn etc.
+
+>I like Kyle's no-nonsense personality, honesty and wit. I think it's important that side of him is visible in his profile and I think it'll help him stand out.
+
+>For employability I'd suggest he's a bit more prescriptive about his skill set. On his website he talks about 'Making design/web/code/art/sound things.' and 'Finely Crafted Electrons'. It's not really clear that he could knock you up an awesome website. I think he should show some of his work on the homepage too.
+
+>He might want to look at re-ordering the projects in his portfolio/website as well, depending on the direction he wants to take. If he's looking for more experimental /advanced tech positions keep those first or more commercial web development maybe re-shuffle those to the top etc.
+
+>I can't comment on whether the test project clinched it for Kyle or not, but I seem to remember Anthony being suitably impressed.
+
 _______
 
 ##Conclusion
