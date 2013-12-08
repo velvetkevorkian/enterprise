@@ -97,7 +97,7 @@ The Quartic Llama team are careful to tailor that narrative depending on who the
 
 >Your image is so important. Unfortunately it takes a lot of time to get that right, and it's about being careful [about] the messages you send out there. What I do is, depending on who I'm speaking to, I'll do my research before hand. If it's a game publisher, I'll concentrate on our games. If it's an arts or cultural organisation, I'll talk about how we collaborate with people, how we're very artistic... It's about being very careful and doing that research.
 
-I think this is an important point. Having a selection of messages to tell about your work, tailored to specific audiences, obviously increases the chance of your message finding a receptive audience. 
+This is an important point. Having a selection of messages to tell about your work, tailored to specific audiences, obviously increases the chance of your message finding a receptive audience. 
 
 Having different levels of narrative to expand to can be important too. You can't tell the exact same story in the 160 characters of a Twitter biography that you can in, say, a five minute face-to-face conversation. The layering of simple elements can create a complex overall picture, however, as noted by Heath & Heath (pp48). In fact, this is one of their key points for how make ideas "stick".
 
@@ -126,12 +126,12 @@ So, for our purposes, we can think of it as an issue of communication design. Wh
 How can we communicate complex ideas and information? As we've established, stories are the key.
 
 > Brands start with a great idea that tells a good story. Everybody understands a story — stories cross borders, and they connect generations, class and cultures. Stories are created for their audience and this is what makes them powerful. The story — or narrative — behind a brand is its backbone.  
-<br>    
-> Brands often struggle with trying to be all things to all people. One simple story will help focus the aims of the brand or the brand project and create a single goal. Stories help create simplicity out of complexity by defining a single route through a maze of possibilities, and it is the designer who must translate the story into the visual element and execution. (Davis, pp76)
+<br> 
+Brands often struggle with trying to be all things to all people. One simple story will help focus the aims of the brand or the brand project and create a single goal. Stories help create simplicity out of complexity by defining a single route through a maze of possibilities, and it is the designer who must translate the story into the visual element and execution. (Davis, pp76)
 
 As we've seen before, stories are key to communication. For many brands, the way stories are told is tightly managed so as to reinforce the main narrative. During my internship in summer 2013, the client I worked with was a major UK telecoms company, who run regular tone-of-voice workshops for all employees. This ensures a single consistent narrative for all the company's communications, regardless of which employee wrote a particular piece or what department they work for. 
 
-This consistency extends across any visual design elements too, of course. For most people this is probably what they think of when "branding" is mentioned: the look and feel of a product or service. 
+This consistency extends across any visual design elements too, of course. For most people this is probably what they think of when "branding" is mentioned: the look and feel of a product or service. In reality, as Drew notes above, the brand identity covers every single aspect of every interaction a person[?] has with a brand.
 
 
 
@@ -139,19 +139,24 @@ This consistency extends across any visual design elements too, of course. For m
 ###Application
 We've established what a brand is, why we would want one and how they can be communicated. How can we apply that to my own personal and professional brand? First we'll have a look at my current brand identity, such as it is, and then try and put into practice some of the lessons we've learned. 
 
+####What's my story?
+
 ####Benchmarking
 Before any design or development project can begin there is a design phase [*design is a job ref?*] First the current presence needs to be assessed to establish how effective it is, before a solution can be proposed.
 
 The presence in question has only had a couple of opportunities to be effective, the most significant being when I successfully applied for an internship with the branding agency Lambie-Nairn. To say that they have a significant amount of experience in creating and designing brands would be an understatement. David Stockfis, who is now a freelance designer but was the design director at Lambie-Nairn in charge of the project, provided some valuable feedback:
 
->Personal branding's tricky. And somewhat subjective. Some people/studios love a high-impact over-the-top approach... I personally prefer a much simpler/pared back style e.g not much of a personal brand, simple website or pdf showing your best work, up-to-date LinkedIn etc.     
+>Personal branding's tricky. And somewhat subjective. Some people/studios love a high-impact over-the-top approach... I personally prefer a much simpler/pared back style e.g not much of a personal brand, simple website or pdf showing your best work, up-to-date LinkedIn etc.       
 <br>
->I like Kyle's no-nonsense personality, honesty and wit. I think it's important that side of him is visible in his profile and I think it'll help him stand out.
+I like Kyle's no-nonsense personality, honesty and wit. I think it's important that side of him is visible in his profile and I think it'll help him stand out.
 <br>     
->For employability I'd suggest he's a bit more prescriptive about his skill set. On his website he talks about 'Making design/web/code/art/sound things.' and 'Finely Crafted Electrons'. It's not really clear that he could knock you up an awesome website. I think he should show some of his work on the homepage too.
+For employability I'd suggest he's a bit more prescriptive about his skill set. On his website he talks about 'Making design/web/code/art/sound things.' and 'Finely Crafted Electrons'. It's not really clear that he could knock you up an awesome website. I think he should show some of his work on the homepage too.
 <br>    
->He might want to look at re-ordering the projects in his portfolio/website as well, depending on the direction he wants to take. If he's looking for more experimental/advanced tech positions keep those first or more commercial web development maybe re-shuffle those to the top etc.
+He might want to look at re-ordering the projects in his portfolio/website as well, depending on the direction he wants to take. If he's looking for more experimental/advanced tech positions keep those first or more commercial web development maybe re-shuffle those to the top etc.
 
+David's analysis is hard to fault. The literal story is unclear; the narrative provided by a portfolio is unnecessarily hidden an extra page deep for no particular reason; the abstract home page design provides little of value, especially as most users won't know (or care) about the randomised properties of the central graphic. 
+
+The point about an "up-to-date LinkedIn" bears further examination. As noted by Drew earlier, [ref] a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization". For our purposes, this will have to include points of contact such as LinkedIn and Twitter, as well as my personal blog, all of which currently have somewhat disparate visual and editorial styles. [refs to importance of Twitter?]  
 
 _______
 
