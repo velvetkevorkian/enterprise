@@ -158,6 +158,15 @@ David's analysis is hard to fault. The literal story is unclear; the narrative p
 
 The point about an "up-to-date LinkedIn" bears further examination. As noted by Drew earlier, [ref] a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization". For our purposes, this will have to include points of contact such as LinkedIn and Twitter, as well as a personal blog, all of which currently have somewhat disparate visual and editorial styles. [refs to importance of Twitter?]  
 
+
+
+###Blogging
+>Many of the bloggers featured in this book are essentially hobby or journal bloggers who have taken it further and some started from the point of an existing business but saw the opportunity offered by having a parallel blog.  
+<br>
+Whether deliberate or not, their blogs have become fantastic PR tools for for the blogger's business, or their art, or their expertise.  
+<br>
+Everything that happens on your blog can affect people's perceptions of your reputation and whatever it is you're selling. That's also the case elsewhere online (on social networks, for example), but the difference is that your blog is within your control — it is literally your domain. [Houghton, pp156)
+
 _______
 
 ##Conclusion
