@@ -131,7 +131,7 @@ Brands often struggle with trying to be all things to all people. One simple sto
 
 As we've seen before, stories are key to communication. For many brands, the way stories are told is tightly managed so as to reinforce the main narrative. During my internship in summer 2013, the client I worked with was a major UK telecoms company, who run regular tone-of-voice workshops for all employees. This ensures a single consistent narrative for all the company's communications, regardless of which employee wrote a particular piece or what department they work for. 
 
-This consistency extends across any visual design elements too, of course. For most people this is probably what they think of when "branding" is mentioned: the look and feel of a product or service. In reality, as Drew notes above, the brand identity covers every single aspect of every interaction a person[?] has with a brand.
+This consistency extends across any visual design elements too, of course. For most people this is probably what they think of when "branding" is mentioned: the look and feel of a product or service. In reality, as Drew notes above, the brand identity covers every single aspect of every interaction a person[?] has with a brand. For a freelancer, 
 
 
 
@@ -156,7 +156,7 @@ He might want to look at re-ordering the projects in his portfolio/website as we
 
 David's analysis is hard to fault. The literal story is unclear; the narrative provided by a portfolio is unnecessarily hidden an extra page deep for no particular reason; the abstract home page design provides little of value, especially as most users won't know (or care) about the randomised properties of the central graphic. 
 
-The point about an "up-to-date LinkedIn" bears further examination. As noted by Drew earlier, [ref] a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization". For our purposes, this will have to include points of contact such as LinkedIn and Twitter, as well as my personal blog, all of which currently have somewhat disparate visual and editorial styles. [refs to importance of Twitter?]  
+The point about an "up-to-date LinkedIn" bears further examination. As noted by Drew earlier, [ref] a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization". For our purposes, this will have to include points of contact such as LinkedIn and Twitter, as well as a personal blog, all of which currently have somewhat disparate visual and editorial styles. [refs to importance of Twitter?]  
 
 _______
 
@@ -169,9 +169,14 @@ _______
 - Drew, Keith | Online branding | London: Laurence King, 2002
 - Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
 - Heath, Chip | Made to stick: why some ideas take hold and others come unstuck |  London: Arrow Books, 2008
+- Houghton, Robin | Blogging for creatives: how designers, artists, crafters and writers can blog to make contacts, win business and build success | Lewes: Ilex, 2012
+- Byron, D. L. | Publish and prosper: blogging for your business | Berkeley, Calif.: New Riders, 2006.
 
 --------
 
 ##Appendices
 
+###Appendix A: Lambie-Nairn/Telefonica internship
+Excuse the personal tone of this section, but it seems appropriate as a piece of reflective writing rather than an academic summary. 
 
+I spent the majority of summer 2013 (mid May to mid August) working in London. The client commissioning the project, Telefónica UK, have a number of initiatives aimed at giving young (and in my case, not *so* young) people opportunities in training and work, which come under their commitments to being a sustainable business. As part of this, they commissioned Lambie-Nairn to find two paid interns to design and build Telefónica UK's sustainability report for the year. I was fortunate to be chosen to do the front end development
