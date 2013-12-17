@@ -50,7 +50,7 @@ This is not a new problem, nor is it one that is unique to the creative technolo
 
 ##Middle bit (provisional title)
 
-reorder: what is branding/case studies/made to stick/benchmarking etc
+reorder: /what is creative tech/what is branding/case studies/made to stick/benchmarking etc
 
 
 ###On making ideas stick
@@ -188,4 +188,13 @@ _______
 ###Appendix A: Lambie-Nairn/Telefonica internship
 Excuse the personal tone of this section, but it seems appropriate as a piece of reflective writing rather than an academic summary. 
 
-I spent the majority of summer 2013 (mid May to mid August) working in London. The client commissioning the project, Telefónica UK, have a number of initiatives aimed at giving young (and in my case, not *so* young) people opportunities in training and work, which come under their commitments to being a sustainable business. As part of this, they commissioned Lambie-Nairn to find two paid interns to design and build Telefónica UK's sustainability report for the year. I was fortunate to be chosen to do the front end development
+I spent the majority of summer 2013 (mid May to mid August) working in London. The client commissioning the project, Telefónica UK, have a number of initiatives aimed at giving young (and in my case, not *so* young) people opportunities in training and work, which come under their commitments to being a sustainable business. As part of this, they commissioned Lambie-Nairn to find two paid interns to design and build Telefónica UK's sustainability report for the year. I was fortunate to be chosen to do the front end development, in partnership with a graphic designer. We worked closely with the client and both the design team at Lambie-Nairn and their digital partners at Morph London. As a result, I got to see how a larger branding agency works, as well as a smaller more specialist digital agency. This has also given me the opportunity to do some freelance development work with the digital agency. From this I can draw a few conclusions: 
+- As noted repeatedly, personal contacts are vital. 
+- In terms of income, freelancing as a front-end developer would be a viable route for me to take, even if not as a primary goal. 
+- Working for a smaller specialist agency is far more appealing to me than being part of a large team.
+- The ability to get things done and get them out the door is more important than worrying about the technical minutiae of a particular solution.
+- "Soft" skills are even more important. Being able to communicate and work with both clients and other team members is probably the key factor in almost every situation. 
+
+There are also a number of more technical and organisational lessons I learned, from both experience and observation. Unfortunately these are harder to distil into an easily told story, being both dependent on having the context explained, and possibly slightly unflattering to some of those concerned. The stories told publicly about this (great!) experience will have to be selected to reflect that. 
+
+
