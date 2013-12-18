@@ -45,6 +45,9 @@ The problem for anyone trying to enter this area, then, is essentially one of br
 
 This is not a new problem, nor is it one that is unique to the creative technology field. My objective is to investigate how other people have addressed the problems inherent in being trans-disciplinary, and how we can apply those lessons in the modern interaction design/creative technology field. The end product will be a plan for applying those lessons in my own post-university practice, and demonstrate some practical applications. I'll also examine some more general issues that arise, with  a particular focus on how they will apply to a business working with creative technology. 
 
+
+Interaction Design is a relatively new field, and is somewhat nebulously defined. We occupy a space "at the intersection of art, media and technology" (Visnjic, date unkown), and expand out to be part of the general creative technology discipline. If we look at previous Digital Interaction Design degree shows, we see a range of designs, from apps to artistic hardware to gestural interfaces. Creative technology is, perhaps more than any other discipline, a synthesis of other areas of design: graphics, products, services, even software. My ultimate goal, however, can be summed up in a simple phrase: to do interesting work using interactive technology, or, to borrow a phrase from the masters, "create beautiful and compelling interactive experiences" (IDEO, date unknown). 
+
 ----
 
 
