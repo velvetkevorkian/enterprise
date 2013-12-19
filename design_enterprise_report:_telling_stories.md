@@ -45,7 +45,7 @@ A key strength of a Digital Interaction Design degree can be knowledge of many d
 
 One of the problems for someone trying to enter this area, then, is essentially one of branding. How can one present themselves so that they effectively communicate the work that they do, when most people aren't familiar with either the breadth or depth of that work? How can they attract the kind of work they're interested in, when that work can span such a  wide range? 
 
-This is not a new problem, nor is it one that is unique to the creative technology field. My objective is to investigate how other people have addressed the problems inherent in being trans-disciplinary, and how we can apply those lessons in the modern interaction design/creative technology field. The end product will be a plan for applying those lessons in my own post-university practice, and demonstrate some practical applications. I'll also examine some more general issues that arise, with  a particular focus on how they will apply to a business working with creative technology. 
+This is not a new problem, nor is it one that is unique to the creative technology field. The objective of this report is to investigate how other people have addressed the problems inherent in working across disciplines, and how those lessons can be applied in the modern interaction design/creative technology field. This will include a plan for applying those lessons in my own post-university practice, and will demonstrate some practical applications. I'll also examine some more general issues that arise, with  a particular focus on how they will apply to a business working with creative technology. 
 
 
 
@@ -120,7 +120,11 @@ Gianni noted that people's perception of you and your work can often have a more
 ###What is branding?
 Fundamentally, the issue at stake here is a matter of branding and marketing.  What elements go into making a brand successful, and how relevant are they to a freelance worker's professional identity?
 
-> Branding, in all its shapes and forms, comes down to how an organisation presents itself and, more importantly, how its audience perceives it. It has grown beyond a simple visual depiction into more of an attitude, enforced through a series of interactions a person has with any one organization [sic] (Drew, pp4).
+> Branding, in all its shapes and forms, comes down to how an organisation presents itself and, more importantly, how its audience perceives it. It has grown beyond a simple visual depiction into more of an attitude, enforced through a series of interactions a person has with any one organization. (Drew, pp4).
+
+This consistency extends across any visual design elements too, of course. For most people this is probably what they think of when "branding" is mentioned: the look and feel of a product or service. In reality, as Drew notes above, the brand identity covers every single aspect of every interaction a person[?] has with a brand. Davis divides this into two broad sections: firstly, visual guidelines, including usage of a logo, 
+
+
 
 So, for our purposes, we can think of it as an issue of communication design. What do we need to communicate? 
 
@@ -136,7 +140,6 @@ Brands often struggle with trying to be all things to all people. One simple sto
 
 As we've seen before, stories are key to communication. For many brands, the way stories are told is tightly managed so as to reinforce the main narrative. During my internship in summer 2013, the client I worked with was a major UK telecoms company, who run regular tone-of-voice workshops for all employees. This ensures a single consistent narrative for all the company's communications, regardless of which employee wrote a particular piece or what department they work for. 
 
-This consistency extends across any visual design elements too, of course. For most people this is probably what they think of when "branding" is mentioned: the look and feel of a product or service. In reality, as Drew notes above, the brand identity covers every single aspect of every interaction a person[?] has with a brand. For a freelancer, 
 
 
 
