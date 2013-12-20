@@ -60,7 +60,7 @@ reorder: /what is creative tech/what is branding/case studies/made to stick/benc
 ###What is branding?
 Fundamentally, the issue at stake here is a matter of branding and marketing.  What elements go into making a brand successful, and how can they be applied to a freelance creative technologist's professional identity?
 
-> Branding, in all its shapes and forms, comes down to how an organisation presents itself and, more importantly, how its audience perceives it. It has grown beyond a simple visual depiction into more of an attitude, enforced through a series of interactions a person has with any one organization. (Drew, pp4).
+> Branding, in all its shapes and forms, comes down to how an organisation presents itself and, more importantly, how its audience perceives it. It has grown beyond a simple visual depiction into more of an attitude, enforced through a series of interactions a person has with any one organization. (Drew, p.4).
 
 A brand demands consistency across all points of contact. As Drew notes above, the brand identity covers every single aspect of every interaction a person has with a brand. This can be divided into two broad sections (Davis, pp206): firstly, visual guidelines, including usage of a logo, distinctive typography, colour schemes, and so on. For most people, this is probably what they think of when "branding" is mentioned. Secondly, the more ephemeral but no less important aspect of tone of voice, which should be created to complement the visual design. This ensures that the brand's design and language work together to communicate as effectively as possible. 
 
@@ -68,12 +68,9 @@ How can complex multi-layered ideas, like the ones identified earlier, be commun
 
 > Brands start with a great idea that tells a good story. Everybody understands a story — stories cross borders, and they connect generations, class and cultures. Stories are created for their audience and this is what makes them powerful. The story — or narrative — behind a brand is its backbone.  
 <br> 
-Brands often struggle with trying to be all things to all people. One simple story will help focus the aims of the brand or the brand project and create a single goal. Stories help create simplicity out of complexity by defining a single route through a maze of possibilities, and it is the designer who must translate the story into the visual element and execution. (Davis, pp76)
+Brands often struggle with trying to be all things to all people. One simple story will help focus the aims of the brand or the brand project and create a single goal. Stories help create simplicity out of complexity by defining a single route through a maze of possibilities, and it is the designer who must translate the story into the visual element and execution. (Davis, p.76)
 
-
-
-**stories and the importance of references**
-The stories that others tell about a business can be even more important than the stories a business tells about itself. Precise figures
+The stories that others tell about a business can be even more important than the stories a business tells about itself. Precise figures are hard to come by, but Patricia van den Akker of the Design Trust talks about 80% of business coming through referrals. Mike Monteiro says the number is closer to 90% (Monteiro, 2012: p.19). While the people interviewed for this report haven't put a number on it, they have all independently noted that personal connections are vital to getting work. Giving those people an easily told, easily remembered "hook" can be the difference between work coming in from those connections, or not. 
 
 ###On making ideas stick
 Communicating what we do to people who have little to no awareness of the surrounding area can be problematic. Without a clear and concise explanation, the chances of them understanding what interaction design is are slim — and the chances of getting paid work from them is slimmer still. What we need is a method for making sure our message is easily understood and remembered, without sacrificing accuracy.
@@ -86,7 +83,7 @@ Fortunately, there are manuals for this sort of thing. One of these is *Made to 
 4. Credibility
 5. Emotions
 6. Stories
-7. s
+7. -
 
 Ideas that don't follow these rules can still stay with people, and we don't necessarily have to check off every point. They do, however, provide a useful guide for how we can communicate complex concepts clearly. Let's have a look at how we can apply the SUCCESs principles to branding and presenting our portfolio website, and telling our professional story. 
 
@@ -109,7 +106,7 @@ This is a tricky one. What kind of emotions do I want to evoke with my portfolio
 This is the opportunity to tie all the preceding points together. Creating a coherent overall narrative is an opportunity to put the previous points into action, while the stories of individual projects can form layers of depth which reinforce that. 
 
 ###Case study: Quartic Llama
-For some insight into the importance of stories and how we tell them, I got in touch with [Quartic Llama](http://quarticllama.com/), a Dundee-based games studio, founded in 2012 by graduates from the University of Abertay. In addition to their, for lack of a better term, "normal" games development work, they also collaborate extensively with cultural organisations, creating games and experiences. I first came across them when their piece [*100,000 Lux*](http://www.northeastofnorth.com/?event=100000-lux) was featured as part of Dundee's 2012 NEoN festival. A site specific performance using the coloured lighting on one of Abertay University's main buildings, combined with a striking soundtrack derived from solar observations, *100,000 Lux* marked Quartic Llama out as not your average game developer. Their collaboration with the National Theatre of Scotland, *Other*, is a location based augmented reality experience set in the streets of Dundee. At first glance it has little in common with either regular games or a piece like *100,000 Lux*, but after talking with Malath Abbas, an artist, designer and one of the founders of Quartic Llama, it's easier to pull together the threads running through their work. 
+[Quartic Llama](http://quarticllama.com/) are a Dundee-based games studio, founded in 2012 by graduates from the University of Abertay. In addition to their, for lack of a better term, "normal" games development work, they also collaborate extensively with cultural organisations, creating games and experiences. I first came across them when their piece [*100,000 Lux*](http://www.northeastofnorth.com/?event=100000-lux) was featured as part of Dundee's 2012 NEoN festival. A site specific performance using the coloured lighting on one of Abertay University's main buildings, combined with a striking soundtrack derived from solar observations, *100,000 Lux* marked Quartic Llama out as not your average game developer. Their collaboration with the National Theatre of Scotland, *Other*, is a location based augmented reality experience set in the streets of Dundee. At first glance it has little in common with either regular games or a piece like *100,000 Lux*, but after talking with Malath Abbas, an artist, designer and one of the founders of Quartic Llama, it's easier to pull together the threads running through their work. 
 
 The identity that Quartic Llama present on their website is actually quite enigmatic. According to Malath, this is a deliberate ploy to draw people in. For him, crafting an image is all about telling a story.
 
@@ -157,8 +154,9 @@ He might want to look at re-ordering the projects in his portfolio/website as we
 
 David's analysis is hard to fault. The literal story is unclear; the narrative provided by a portfolio is unnecessarily hidden an extra page deep for no particular reason; the abstract home page design provides little of value, especially as most users won't know (or care) about the randomised properties of the central graphic. 
 
-The point about an "up-to-date LinkedIn" bears further examination. As noted by Drew earlier, [ref] a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization". For our purposes, this will have to include points of contact such as LinkedIn and Twitter, as well as a personal blog, all of which currently have somewhat disparate visual and editorial styles. [refs to importance of Twitter?]  
+The point about an "up-to-date LinkedIn" bears further examination. As noted earlier, a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization" (Drew, 2002, p.4).  For our purposes, this will have to include points of contact such as LinkedIn and Twitter, as well as a personal blog, all of which currently have somewhat disparate visual and editorial styles. [refs to importance of Twitter?]  
 
+At the time of writing, 
 
 
 ###Blogging
@@ -176,11 +174,14 @@ _______
 
 ------
 ##Bibliography
-- Drew, Keith | Online branding | London: Laurence King, 2002
+- Byron, D. L. | Publish and prosper: blogging for your business | Berkeley, Calif.: New Riders, 2006
 - Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
+- Drew, Keith | Online branding | London: Laurence King, 2002
 - Heath, Chip | Made to stick: why some ideas take hold and others come unstuck |  London: Arrow Books, 2008
 - Houghton, Robin | Blogging for creatives: how designers, artists, crafters and writers can blog to make contacts, win business and build success | Lewes: Ilex, 2012
-- Byron, D. L. | Publish and prosper: blogging for your business | Berkeley, Calif.: New Riders, 2006.
+- Monteiro, Mike | Design is a Job | New York: A Book Apart, 2012
+- North East of North | Programme 2012 | Dundee, 2012 | source: http://www.northeastofnorth.com/?event=100000-lux, retrieved 20/12/2013
+- van den Akker, Patricia | Design & the Market Lecture | Dundee University, 2013 
 
 --------
 
