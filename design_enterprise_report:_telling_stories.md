@@ -154,17 +154,15 @@ He might want to look at re-ordering the projects in his portfolio/website as we
 
 David's analysis is hard to fault. The literal story is unclear; the narrative provided by a portfolio is unnecessarily hidden an extra page deep for no particular reason; the abstract home page design provides little of value, especially as most users won't know (or care) about the randomised properties of the central graphic. 
 
-The point about an "up-to-date LinkedIn" bears further examination. As noted earlier, a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization" (Drew, 2002, p.4).  For our purposes, this will have to include points of contact such as LinkedIn and Twitter, as well as a personal blog, all of which currently have somewhat disparate visual and editorial styles. [refs to importance of Twitter?]  
+The point about an "up-to-date LinkedIn" bears further examination. As noted earlier, a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization" (Drew, 2002, p.4).  For our purposes, this includes points of contact such as LinkedIn and Twitter, as well as a professional website and blog, all of which currently have somewhat disparate visual and editorial styles. 
 
-At the time of writing, 
-
-
-###Blogging
->Many of the bloggers featured in this book are essentially hobby or journal bloggers who have taken it further and some started from the point of an existing business but saw the opportunity offered by having a parallel blog.  
+While blogging may not have the cultural significance that it once did, it can still provide a valuable outlet for displaying abilities which may not be obvious from a portfolio. 
+>[B]logs have become fantastic PR tools for [a] blogger's business, or their art, or their expertise.  
 <br>
-Whether deliberate or not, their blogs have become fantastic PR tools for for the blogger's business, or their art, or their expertise.  
-<br>
-Everything that happens on your blog can affect people's perceptions of your reputation and whatever it is you're selling. That's also the case elsewhere online (on social networks, for example), but the difference is that your blog is within your control — it is literally your domain. [Houghton, pp156)
+Everything that happens on your blog can affect people's perceptions of your reputation and whatever it is you're selling. That's also the case elsewhere online (on social networks, for example), but the difference is that your blog is within your control — it is literally your domain. [Houghton, p.156)
+
+Experiments, small side projects and miscellaneous writings, while not necessarily directly related to client work, can show a wider range of personality and ability than a portfolio alone, which is more constrained by the need to include finished works. Given the importance of communication skills in virtually all fields, having a place to practice writing and show off some ability can be advantageous. If kept up to date, it can also be an indicator of ongoing activity, as opposed to a portfolio site that may only get updated occasionally or not at all, depending on the nature of the work being done. 
+
 
 _______
 
@@ -198,5 +196,7 @@ I spent the majority of summer 2013 (mid May to mid August) working in London. T
 - "Soft" skills are even more important. Being able to communicate and work with both clients and other team members is probably the key factor in almost every situation. 
 
 There are also a number of more technical and organisational lessons I learned, from both experience and observation. Unfortunately these are harder to distil into an easily told story, being both dependent on having the context explained, and possibly slightly unflattering to some of those concerned. The stories told publicly about this (great!) experience will have to be selected to reflect that. 
+
+- LinkedIn importance? Anecdotal
 
 
