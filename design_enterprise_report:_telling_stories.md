@@ -229,4 +229,10 @@ There are also a number of logistical and organisational lessons I learned, from
 
 I was surprised to find how much weight some people place on LinkedIn as a recruitment tool. The MD of the digital agency I was working with received several hundred applications last time they advertised a full-time position, and he used LinkedIn references to whittle that down to a shortlist of a dozen or so to interview. It just reinforces how important making contacts and getting personal references is, for freelancers and full-timers alike. 
 
+###Appendix B: Website proposal
+####Technical Requirements
+
+
+####Design requirements
+
 
