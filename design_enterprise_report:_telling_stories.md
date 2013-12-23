@@ -167,9 +167,9 @@ SEO: There are whole businesses built around search engine optimisation — the
 
 
 ####Benchmarking
-Before any design or development project can begin there is a design phase [*design is a job ref?*] First the current presence needs to be assessed to establish how effective it is, before a solution can be proposed.
+Before any branding project can begin there is a research phase — the current brand identity and its applications needs to be assessed to establish how effective it is, before a solution can be proposed.
 
-The presence in question has only had a couple of opportunities to be effective, the most significant being the summer of 2013, as part of a successful application for an internship with the branding agency Lambie-Nairn. To say that they have a significant amount of experience in creating and designing brands would be an understatement. David Stockfis, who is now a freelance designer but was the design director at Lambie-Nairn in charge of the project, provided some valuable feedback:
+The presence in question has only had a couple of opportunities to be effective, the most significant being the summer of 2013, as part of a successful application for an internship with the branding agency Lambie-Nairn. David Stockfis, who is now a freelance designer but was the design director at Lambie-Nairn in charge of the project, provided some valuable feedback:
 
 >Personal branding's tricky. And somewhat subjective. Some people/studios love a high-impact over-the-top approach... I personally prefer a much simpler/pared back style e.g not much of a personal brand, simple website or pdf showing your best work, up-to-date LinkedIn etc.       
 <br>
@@ -225,8 +225,8 @@ I spent the majority of summer 2013 (mid May to mid August) working in London. T
 - The ability to get things done and get them out the door is more important than worrying about the technical minutiae of a particular solution.
 - "Soft" skills are even more important. Being able to communicate and work with both clients and other team members is probably the key factor in almost every situation. 
 
-There are also a number of more technical and organisational lessons I learned, from both experience and observation. Unfortunately these are harder to distil into an easily told story, being both dependent on having the context explained, and possibly slightly unflattering to some of those concerned. The stories told publicly about this (great!) experience will have to be selected to reflect that. 
+There are also a number of logistical and organisational lessons I learned, from both experience and observation. Unfortunately these are harder to distil into an easily told story, being both dependent on having the context explained, and possibly slightly unflattering to some of those concerned. The stories told publicly about this (great!) experience will have to be selected to reflect that. 
 
-- LinkedIn importance? Anecdotal
+I was surprised to find how much weight some people place on LinkedIn as a recruitment tool. The MD of the digital agency I was working with received several hundred applications last time they advertised a full-time position, and he used LinkedIn references to whittle that down to a shortlist of a dozen or so to interview. It just reinforces how important making contacts and getting personal references is, for freelancers and full-timers alike. 
 
 
