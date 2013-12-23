@@ -62,7 +62,7 @@ Fundamentally, the issue at stake here is a matter of branding and marketing.  W
 
 > Branding, in all its shapes and forms, comes down to how an organisation presents itself and, more importantly, how its audience perceives it. It has grown beyond a simple visual depiction into more of an attitude, enforced through a series of interactions a person has with any one organization. (Drew, p.4).
 
-A brand demands consistency across all points of contact. As Drew notes above, the brand identity covers every single aspect of every interaction a person has with a brand. This can be divided into two broad sections (Davis, pp206): firstly, visual guidelines, including usage of a logo, distinctive typography, colour schemes, and so on. For most people, this is probably what they think of when "branding" is mentioned. Secondly, the more ephemeral but no less important aspect of tone of voice, which should be created to complement the visual design. This ensures that the brand's design and language work together to communicate as effectively as possible. 
+A brand demands consistency across all points of contact. As Drew notes above, the brand identity covers every single aspect of every interaction a person has with a brand. This can be divided into two broad sections (Davis, p.206): firstly, visual guidelines, including usage of a logo, distinctive typography, colour schemes, and so on. For most people, this is probably what they think of when "branding" is mentioned. Secondly, the more ephemeral but no less important aspect of tone of voice, which should be created to complement the visual design. This ensures that the brand's design and language work together to communicate as effectively as possible. 
 
 How can complex multi-layered ideas, like the ones identified earlier, be communicated clearly and effectively? The consensus is that stories are the key.
 
@@ -139,10 +139,37 @@ We've established what a brand is, why we would want one and how they can be com
 
 ####What's my story?
 
+####What are the requirements?
+- A visual identity
+	- Colour scheme
+	- Fonts 
+	- logo
+- An engaging story/stories
+	- Tone of voice
+- A website
+	- well designed
+	- performant
+	- as much info as possible on front page
+	- touch friendly (not just responsive)
+	- portfolio, showing off work to best advantage
+	- contact details
+	- matching blog
+	- seo'ed without being spammy :(
+	- og meta tags, twitter cards per project and 
+- LinkedIn page with updated projects, experience etc
+- Branded Twitter page?
+- Business cards
+- Other print stuff - invoices, headed paper etc?
+
+The principal expression of a brand identity for a business with a digital focus is almost inevitably going to be a website. An online portfolio is a space that can be dedicated to telling a single story, or set of linked stories. 
+
+SEO: Making 
+
+
 ####Benchmarking
 Before any design or development project can begin there is a design phase [*design is a job ref?*] First the current presence needs to be assessed to establish how effective it is, before a solution can be proposed.
 
-The presence in question has only had a couple of opportunities to be effective, the most significant being when I successfully applied for an internship with the branding agency Lambie-Nairn. To say that they have a significant amount of experience in creating and designing brands would be an understatement. David Stockfis, who is now a freelance designer but was the design director at Lambie-Nairn in charge of the project, provided some valuable feedback:
+The presence in question has only had a couple of opportunities to be effective, the most significant being the summer of 2013, as part of a successful application for an internship with the branding agency Lambie-Nairn. To say that they have a significant amount of experience in creating and designing brands would be an understatement. David Stockfis, who is now a freelance designer but was the design director at Lambie-Nairn in charge of the project, provided some valuable feedback:
 
 >Personal branding's tricky. And somewhat subjective. Some people/studios love a high-impact over-the-top approach... I personally prefer a much simpler/pared back style e.g not much of a personal brand, simple website or pdf showing your best work, up-to-date LinkedIn etc.       
 <br>
@@ -161,7 +188,7 @@ While blogging may not have the cultural significance that it once did, it can s
 <br>
 Everything that happens on your blog can affect people's perceptions of your reputation and whatever it is you're selling. That's also the case elsewhere online (on social networks, for example), but the difference is that your blog is within your control — it is literally your domain. [Houghton, p.156)
 
-Experiments, small side projects and miscellaneous writings, while not necessarily directly related to client work, can show a wider range of personality and ability than a portfolio alone, which is more constrained by the need to include finished works. Given the importance of communication skills in virtually all fields, having a place to practice writing and show off some ability can be advantageous. If kept up to date, it can also be an indicator of ongoing activity, as opposed to a portfolio site that may only get updated occasionally or not at all, depending on the nature of the work being done. 
+Experiments, small side projects and miscellaneous writings, while not necessarily directly related to client work, can show a wider range of personality and ability than a portfolio alone, which is more constrained by the need to include finished works. Given the importance of communication skills in virtually all fields, having a place to practice writing and demonstrate one's abilities can be advantageous. If kept up to date, it can also be an indicator of ongoing activity, as opposed to a portfolio site that may only get updated occasionally or not at all, depending on the nature of the work being done. 
 
 
 _______
@@ -173,12 +200,15 @@ _______
 ------
 ##Bibliography
 - Byron, D. L. | Publish and prosper: blogging for your business | Berkeley, Calif.: New Riders, 2006
+- Clark, Igor | Why We’re Not Hiring Creative Technologists | [online] available: http://blog.wk.com/2011/10/21/why-we-are-not-hiring-creative-technologists/ |2011: retrieved 20/04/2013
 - Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
 - Drew, Keith | Online branding | London: Laurence King, 2002
 - Heath, Chip | Made to stick: why some ideas take hold and others come unstuck |  London: Arrow Books, 2008
 - Houghton, Robin | Blogging for creatives: how designers, artists, crafters and writers can blog to make contacts, win business and build success | Lewes: Ilex, 2012
+- IDEO | Creative Technologist job listing [online] available: http://www.ideo.com/careers/creative-technologist | date unknown: retrieved 20/04/2013
 - Monteiro, Mike | Design is a Job | New York: A Book Apart, 2012
 - North East of North | Programme 2012 | Dundee, 2012 | source: http://www.northeastofnorth.com/?event=100000-lux, retrieved 20/12/2013
+- Odden, Lee.   Optimize :   how to attract and engage more customers by integrating SEO, social media, and content marketing /   Hoboken, N.J. : Wiley, 2012.
 - van den Akker, Patricia | Design & the Market Lecture | Dundee University, 2013 
 
 --------
