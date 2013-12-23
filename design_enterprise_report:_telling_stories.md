@@ -161,9 +161,9 @@ We've established what a brand is, why we would want one and how they can be com
 - Business cards
 - Other print stuff - invoices, headed paper etc?
 
-The principal expression of a brand identity for a business with a digital focus is almost inevitably going to be a website. An online portfolio is a space that can be dedicated to telling a single story, or set of linked stories. 
+The principal expression of a brand identity for a business with a digital focus is almost inevitably going to be a website. An online portfolio is a space that can be dedicated to telling a single story, or set of linked stories, which show off 
 
-SEO: Making 
+SEO: There are whole businesses built around search engine optimisation — the practice of adjusting a website's content to make it appear as high as possible in search engine results (principally Google, which remain by far the most popular). While there are general good practices that all sites can and should follow, given the importance of referrals and personal contacts that has been repeatedly shown, [hasn't it?] and the relatively niche, non-geographic nature of the creative technology industry, traffic from search engines is going to be both minimal and unlikely to lead to easy conversions. 
 
 
 ####Benchmarking
