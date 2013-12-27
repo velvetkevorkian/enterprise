@@ -140,10 +140,13 @@ We've established what a brand is, why we would want one and how they can be com
 ####What's my story?
 
 ####What are the requirements?
+
+
 - A visual identity
-	- Colour scheme
-	- Fonts 
-	- logo
+	- Style guide
+		- Colour scheme
+		- Fonts 
+		- logo
 - An engaging story/stories
 	- Tone of voice
 - A website
@@ -161,13 +164,13 @@ We've established what a brand is, why we would want one and how they can be com
 - Business cards
 - Other print stuff - invoices, headed paper etc?
 
-The principal expression of a brand identity for a business with a digital focus is almost inevitably going to be a website. An online portfolio is a space that can be dedicated to telling a single story, or set of linked stories, which show off 
+The principal expression of a brand identity for a business with a digital focus is almost inevitably going to be a website. An online portfolio is a space that can be dedicated to telling a single story, or set of linked stories, which show off skills and 
 
 SEO: There are whole businesses built around search engine optimisation — the practice of adjusting a website's content to make it appear as high as possible in search engine results (principally Google, which remain by far the most popular). While there are general good practices that all sites can and should follow, given the importance of referrals and personal contacts that has been repeatedly shown, [hasn't it?] and the relatively niche, non-geographic nature of the creative technology industry, traffic from search engines is going to be both minimal and unlikely to lead to easy conversions. 
 
 
 ####Benchmarking
-Before any branding project can begin there is a research phase — the current brand identity and its applications needs to be assessed to establish how effective it is, before a solution can be proposed.
+Before any branding project can begin there is a research phase — the current brand identity and its applications needs to be assessed to establish how effective it is, before a solution can be proposed (Hall 2013, pp.215-219).
 
 The presence in question has only had a couple of opportunities to be effective, the most significant being the summer of 2013, as part of a successful application for an internship with the branding agency Lambie-Nairn. David Stockfis, who is now a freelance designer but was the design director at Lambie-Nairn in charge of the project, provided some valuable feedback:
 
@@ -179,7 +182,7 @@ For employability I'd suggest he's a bit more prescriptive about his skill set. 
 <br>    
 He might want to look at re-ordering the projects in his portfolio/website as well, depending on the direction he wants to take. If he's looking for more experimental/advanced tech positions keep those first or more commercial web development maybe re-shuffle those to the top etc.
 
-David's analysis is hard to fault. The literal story is unclear; the narrative provided by a portfolio is unnecessarily hidden an extra page deep for no particular reason; the abstract home page design provides little of value, especially as most users won't know (or care) about the randomised properties of the central graphic. 
+David's analysis is hard to fault. The literal story is unclear, with the tagline obscuring more than it explains. Although this can be a valid tactic (e.g. see Abbas, 2013) it's not ideal in a context where explaining what's on offer is already difficult. The narrative provided by the elements of a portfolio is unnecessarily hidden an extra page deep for no good reason; the abstract home page design offers little of value, especially as most users won't know (or care) about the randomised properties of the central graphic. 
 
 The point about an "up-to-date LinkedIn" bears further examination. As noted earlier, a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization" (Drew, 2002, p.4).  For our purposes, this includes points of contact such as LinkedIn and Twitter, as well as a professional website and blog, all of which currently have somewhat disparate visual and editorial styles. 
 
@@ -190,6 +193,7 @@ Everything that happens on your blog can affect people's perceptions of your rep
 
 Experiments, small side projects and miscellaneous writings, while not necessarily directly related to client work, can show a wider range of personality and ability than a portfolio alone, which is more constrained by the need to include finished works. Given the importance of communication skills in virtually all fields, having a place to practice writing and demonstrate one's abilities can be advantageous. If kept up to date, it can also be an indicator of ongoing activity, as opposed to a portfolio site that may only get updated occasionally or not at all, depending on the nature of the work being done. 
 
+Unfortunately, at the time of writing, the website and its associated blog's visual styles have diverged somewhat, thanks to the relative difficulty of customising Wordpress themes
 
 _______
 
@@ -203,6 +207,7 @@ _______
 - Clark, Igor | Why We’re Not Hiring Creative Technologists | [online] available: http://blog.wk.com/2011/10/21/why-we-are-not-hiring-creative-technologists/ |2011: retrieved 20/04/2013
 - Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
 - Drew, Keith | Online branding | London: Laurence King, 2002
+- Hall, Erika | Just Enough Research | New York: A Book Apart, 2013
 - Heath, Chip | Made to stick: why some ideas take hold and others come unstuck |  London: Arrow Books, 2008
 - Houghton, Robin | Blogging for creatives: how designers, artists, crafters and writers can blog to make contacts, win business and build success | Lewes: Ilex, 2012
 - IDEO | Creative Technologist job listing [online] available: http://www.ideo.com/careers/creative-technologist | date unknown: retrieved 20/04/2013
@@ -229,10 +234,18 @@ There are also a number of logistical and organisational lessons I learned, from
 
 I was surprised to find how much weight some people place on LinkedIn as a recruitment tool. The MD of the digital agency I was working with received several hundred applications last time they advertised a full-time position, and he used LinkedIn references to whittle that down to a shortlist of a dozen or so to interview. It just reinforces how important making contacts and getting personal references is, for freelancers and full-timers alike. 
 
-###Appendix B: Website proposal
-####Technical Requirements
+###Appendix B: Portfolio Website Proposal
 
+####Overview
+As part of the branding process, an updated website is required, reflecting the brand identity. This document sets out the reasoning behind the design, development, and content strategy.
 
-####Design requirements
+####Technical/Design Requirements
+The design and implementation of a website should be considered holistically, rather than creating artificial distinctions between disciplines. 
+- The site needs to show a selection of work in a portfolio style. The main page should show summaries of all featured projects with links to more in-depth material on separate pages. 
+- The site should follow the style guide previously laid out for visual design.
+- The site must be fast and easy to use. It should be responsive and touch friendly, so as to work well on all devices regardless of screen size and form factor. 
+- It should implement Twitter cards, Open Graph (Facebook/LinkedIn), and Google+ authorship metadata, to ensure all presences are connected and search engine optimised as per best practices. 
+- Ideally it would implement a technique for responsive images, although since there is not yet a standards-based solution it's difficult to choose a solution that doesn't complicate matters more than it helps. 
+- The design/development should extend across both the main site and the blog, keeping as much continuity as possible in the branding, user experience and implementation as possible. 
 
 
