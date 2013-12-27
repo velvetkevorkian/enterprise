@@ -195,6 +195,10 @@ Experiments, small side projects and miscellaneous writings, while not necessari
 
 Unfortunately, at the time of writing, the designs of the main website and its associated blog have diverged somewhat, thanks to the relative difficulty of customising Wordpress themes. Unifying them under a single, modernised, branded identity would probably be the change that would have most impact on the online brand presence. 
 
+Other online venues, for example social media like Twitter, LinkedIn and Google+, also benefit from a unified brand identity. Ensuring they all present a common front, at least as far as possible, means making the most of the available customisation options — while these vary from service to service, using a style guide can at least make them as cohesive as possible.
+
+####Style Guide
+
 _______
 
 ##Conclusion
