@@ -193,7 +193,7 @@ Everything that happens on your blog can affect people's perceptions of your rep
 
 Experiments, small side projects and miscellaneous writings, while not necessarily directly related to client work, can show a wider range of personality and ability than a portfolio alone, which is more constrained by the need to include finished works. Given the importance of communication skills in virtually all fields, having a place to practice writing and demonstrate one's abilities can be advantageous. If kept up to date, it can also be an indicator of ongoing activity, as opposed to a portfolio site that may only get updated occasionally or not at all, depending on the nature of the work being done. 
 
-Unfortunately, at the time of writing, the website and its associated blog's visual styles have diverged somewhat, thanks to the relative difficulty of customising Wordpress themes
+Unfortunately, at the time of writing, the designs of the main website and its associated blog have diverged somewhat, thanks to the relative difficulty of customising Wordpress themes. Unifying them under a single, modernised, branded identity would probably be the change that would have most impact on the online brand presence. 
 
 _______
 
