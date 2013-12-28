@@ -164,9 +164,7 @@ We've established what a brand is, why we would want one and how they can be com
 - Business cards
 - Other print stuff - invoices, headed paper etc?
 
-The principal expression of a brand identity for a business with a digital focus is almost inevitably going to be a website. An online portfolio is a space that can be dedicated to telling a single story, or set of linked stories, which show off skills and 
-
-SEO: There are whole businesses built around search engine optimisation — the practice of adjusting a website's content to make it appear as high as possible in search engine results (principally Google, which remain by far the most popular). While there are general good practices that all sites can and should follow, given the importance of referrals and personal contacts that has been repeatedly shown, [hasn't it?] and the relatively niche, non-geographic nature of the creative technology industry, traffic from search engines is going to be both minimal and unlikely to lead to easy conversions. 
+The principal expression of a brand identity for a business with a digital focus is almost inevitably going to be a website. An online portfolio is a space that can be dedicated to telling a single story, or set of linked stories, which show off skills, abilities, and achievements. While it's important to be discoverable online, , there are whole businesses built around search engine optimisation — the practice of adjusting a website's content to make it appear as high as possible in search engine results (principally Google, which remains by far the most popular)(Lee, 2012). While there are general good practices that all sites can and should follow, given the importance of referrals and personal contacts that has been repeatedly shown, [hasn't it?] and the relatively niche, non-geographic nature of the creative technology industry, large amounts of traffic from search engines is  less important than cultivating good quality personal contacts. 
 
 
 ####Benchmarking
@@ -197,7 +195,14 @@ Unfortunately, at the time of writing, the designs of the main website and its a
 
 Other online venues, for example social media like Twitter, LinkedIn and Google+, also benefit from a unified brand identity. Ensuring they all present a common front, at least as far as possible, means making the most of the available customisation options — while these vary from service to service, using a style guide can at least make them as cohesive as possible.
 
-####Style Guide
+####Brand Guidelines
+The standard method for ensuring this united brand identity is to have a set of brand guidelines. This provides a standardised approach to the visual and editorial content that represents the brand. The precise content varies depending on the brand, but can be summarised like so (Davis, 2005, pp.206-7):
+- Treatment of the logo
+- Colour
+- Typeface
+- Look and Feel
+- Photography
+- Tone of voice
 
 _______
 
@@ -217,7 +222,7 @@ _______
 - IDEO | Creative Technologist job listing [online] available: http://www.ideo.com/careers/creative-technologist | date unknown: retrieved 20/04/2013
 - Monteiro, Mike | Design is a Job | New York: A Book Apart, 2012
 - North East of North | Programme 2012 | Dundee, 2012 | source: http://www.northeastofnorth.com/?event=100000-lux, retrieved 20/12/2013
-- Odden, Lee.   Optimize :   how to attract and engage more customers by integrating SEO, social media, and content marketing /   Hoboken, N.J. : Wiley, 2012.
+- Odden, Lee | Optimize :   how to attract and engage more customers by integrating SEO, social media, and content marketing | Hoboken, N.J. : Wiley, 2012
 - van den Akker, Patricia | Design & the Market Lecture | Dundee University, 2013 
 
 --------
