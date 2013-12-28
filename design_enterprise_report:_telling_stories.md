@@ -141,26 +141,6 @@ We've established what a brand is, why we would want one and how they can be com
 
 ####What are the requirements?
 
-
-- A visual identity
-	- Style guide
-		- Colour scheme
-		- Fonts 
-		- logo
-- An engaging story/stories
-	- Tone of voice
-- A website
-	- well designed
-	- performant
-	- as much info as possible on front page
-	- touch friendly (not just responsive)
-	- portfolio, showing off work to best advantage
-	- contact details
-	- matching blog
-	- seo'ed without being spammy :(
-	- og meta tags, twitter cards per project and 
-- LinkedIn page with updated projects, experience etc
-- Branded Twitter page?
 - Business cards
 - Other print stuff - invoices, headed paper etc?
 
@@ -197,12 +177,16 @@ Other online venues, for example social media like Twitter, LinkedIn and Google+
 
 ####Brand Guidelines
 The standard method for ensuring this united brand identity is to have a set of brand guidelines. This provides a standardised approach to the visual and editorial content that represents the brand. The precise content varies depending on the brand, but can be summarised like so (Davis, 2005, pp.206-7):
-- Treatment of the logo
-- Colour
-- Typeface
-- Look and Feel
-- Photography
-- Tone of voice
+
+- Treatment of the logo, for example size, positioning, how it can work in different media, or with different colour schemes.
+- What is the colour palette? A standard selection of foreground, background and highlight colours to use in different circumstances should be provided.
+- Typefaces, for logos, headings and body copy. This may have to include different fonts for different media, e.g. what works on screen may not work so well in print.
+- "Look and Feel" covers the general style and approach, including laying elements out, textures, and most other graphic design concepts.   
+- Photography: When can it be used? Is there a thematic link with the subjects? 
+- Tone of voice: how does the brand come across in writing and in speech? Friendly or formal? This should apply to all copy that represents the brand, no matter how insignificant it may seem. 
+
+These guidelines provide a 
+
 
 _______
 
@@ -213,7 +197,7 @@ _______
 ------
 ##Bibliography
 - Byron, D. L. | Publish and prosper: blogging for your business | Berkeley, Calif.: New Riders, 2006
-- Clark, Igor | Why We’re Not Hiring Creative Technologists | [online] available: http://blog.wk.com/2011/10/21/why-we-are-not-hiring-creative-technologists/ |2011: retrieved 20/04/2013
+- Clark, Igor | Why We’re Not Hiring Creative Technologists | [online] available: http://blog.wk.com/2011/10/21/why-we-are-not-hiring-creative-technologists/ | 2011: retrieved 20/04/2013
 - Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
 - Drew, Keith | Online branding | London: Laurence King, 2002
 - Hall, Erika | Just Enough Research | New York: A Book Apart, 2013
