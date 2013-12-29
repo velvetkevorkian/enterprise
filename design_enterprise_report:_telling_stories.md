@@ -177,7 +177,7 @@ Unfortunately, at the time of writing, the designs of the main website and its a
 Other online venues, for example social media like Twitter, LinkedIn and Google+, also benefit from a unified brand identity. Ensuring they all present a common front, at least as far as possible, means making the most of the available customisation options — while these vary from service to service, using a style guide can at least make them as cohesive as possible.
 
 ####Brand Guidelines
-The standard method for ensuring this united brand identity is to have a set of brand guidelines. This provides a standardised approach to the visual and editorial content that represents the brand. The precise content varies depending on the brand, but can be summarised like so (Davis, 2005, pp.206-7):
+The standard method for ensuring this united brand identity is to have a set of brand guidelines. This provides a standardised approach to the visual and editorial content that represents the brand. The precise content varies depending on the brand, but can be summarised thusly (Davis, 2005, pp.206-7):
 
 - Treatment of the logo, for example size, positioning, how it can work in different media, or with different colour schemes.
 - What is the colour palette? A standard selection of foreground, background and highlight colours to use in different circumstances should be provided.
@@ -228,18 +228,31 @@ There are also a number of logistical and organisational lessons I learned, from
 
 I was surprised to find how much weight some people place on LinkedIn as a recruitment tool. The MD of the digital agency I was working with received several hundred applications last time they advertised a full-time position, and he used LinkedIn references to whittle that down to a shortlist of a dozen or so to interview. It just reinforces how important making contacts and getting personal references is, for freelancers and full-timers alike. 
 
-###Appendix B: Portfolio Website Proposal
+###Appendix X: Portfolio Website Proposal
 
 ####Overview
 As part of the branding process, an updated website is required, reflecting the brand identity. This document sets out the reasoning behind the design, development, and content strategy.
 
 ####Technical/Design Requirements
 The design and implementation of a website should be considered holistically, rather than creating artificial distinctions between disciplines. 
+
 - The site needs to show a selection of work in a portfolio style. The main page should show summaries of all featured projects with links to more in-depth material on separate pages. 
 - The site should follow the style guide previously laid out for visual design.
 - The site must be fast and easy to use. It should be responsive and touch friendly, so as to work well on all devices regardless of screen size and form factor. 
 - It should implement Twitter cards, Open Graph (Facebook/LinkedIn), and Google+ authorship metadata, to ensure all presences are connected and search engine optimised as per best practices. 
 - Ideally it would implement a technique for responsive images, although since there is not yet a standards-based solution it's difficult to choose a solution that doesn't complicate matters more than it helps. 
 - The design/development should extend across both the main site and the blog, keeping as much continuity as possible in the branding, user experience and implementation as possible. 
+
+
+###Appendix X: Brand Guidelines
+My brand identity is not incredibly complex, and it only has to work in a select few situations. Some common-sense principles and a few specific settings for colour and typography should suffice.
+
+- Logo: dark grey on light grey or light grey on dark grey.
+- Colour: foreground/background/highlight
+- Typefaces, for logos, headings and body copy. This may have to include different fonts for different media, e.g. what works on screen may not work so well in print.
+- Look and feel: Crisp and modern. Minimal texture. Don't try to emulate physical materials. 
+- Photography: Use of photography and graphics is left to the designer's discretion, as long as the material being considered is of reasonable quality. Try and keep the same aspect ratios, at least on a per-page basis. 
+- Tone of voice: This should be similar to my personal tone of voice — fairly informal and friendly, while remaining generally rational and balanced. Choose an appropriate time and place to be more emotive, when needed — showing passion is better than remaining impartial all the time. Above all, avoid "legalese", unnecessary jargon or the stilted prose of a buzzword heavy CV — technical details are fine (and often necessary, in this line of work) but they should still be readable and enjoyable. 
+
 
 
