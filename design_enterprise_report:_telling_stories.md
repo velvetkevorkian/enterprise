@@ -146,6 +146,7 @@ We've established what a brand is, why we would want one and how they can be com
 
 The principal expression of a brand identity for a business with a digital focus is almost inevitably going to be a website. An online portfolio is a space that can be dedicated to telling a single story, or set of linked stories, which show off skills, abilities, and achievements. While it's important to be discoverable online, , there are whole businesses built around search engine optimisation — the practice of adjusting a website's content to make it appear as high as possible in search engine results (principally Google, which remains by far the most popular)(Lee, 2012). While there are general good practices that all sites can and should follow, given the importance of referrals and personal contacts that has been repeatedly shown, [hasn't it?] and the relatively niche, non-geographic nature of the creative technology industry, large amounts of traffic from search engines is  less important than cultivating good quality personal contacts. 
 
+The corollary of that is the necessity of having something for those contacts to remember you by, especially since the name the business operates under is not the easiest to recollect or spell. The humble business card is the obvious physical solution to this problem, and also poses a useful design problem to apply to the rest of the brand identity: what are the most essential pieces of information which have to be conveyed? What can be distilled down or removed entirely? The constraints of the format necessitate a thoughtful approach which can be usefully applied in other contexts. 
 
 ####Benchmarking
 Before any branding project can begin there is a research phase — the current brand identity and its applications needs to be assessed to establish how effective it is, before a solution can be proposed (Hall 2013, pp.215-219).
@@ -185,7 +186,7 @@ The standard method for ensuring this united brand identity is to have a set of 
 - Photography: When can it be used? Is there a thematic link with the subjects? 
 - Tone of voice: how does the brand come across in writing and in speech? Friendly or formal? This should apply to all copy that represents the brand, no matter how insignificant it may seem. 
 
-These guidelines provide a 
+These guidelines provide a set of methods for maintaining a brand identity. 
 
 
 _______
