@@ -131,19 +131,17 @@ He did acknowledge the potential pitfalls inherent in this tactic. In narrowing 
 Gianni noted that people's perception of you and your work can often have a more significant impact than we might think. Being seen as an organiser or facilitator, a speaker at conferences, or teaching can all make people have a different opinion of you, regardless of the the objective quality of your work. This speaks to the idea of concreteness as suggested by the Heath brothers: if people can associate your work with something they've personally experienced, that can be a big win. 
 
 
-
+###Competitor Analysis
+While the creative technology industry is relatively small, many of the people working in the field are quite accessible. While many work within agencies, and thus go uncredited, there are enough influential freelancers with online presences that it is possible 
 
 
 ###Application
-We've established what a brand is, why we would want one and how they can be communicated. How can we apply that to my own personal and professional brand? First we'll have a look at my current brand identity, such as it is, and then try and put into practice some of the lessons we've learned. 
+Having established what a brand is, why we would want one and how they can be communicated. How can we apply that to my own personal and professional brand? First we'll have a look at my current brand identity, such as it is, and then try and put into practice some of the lessons we've learned. 
 
-####What's my story?
+####What's my story? [stories?]
+
 
 ####What are the requirements?
-
-- Business cards
-- Other print stuff - invoices, headed paper etc?
-
 The principal expression of a brand identity for a business with a digital focus is almost inevitably going to be a website. An online portfolio is a space that can be dedicated to telling a single story, or set of linked stories, which show off skills, abilities, and achievements. While it's important to be discoverable online, , there are whole businesses built around search engine optimisation — the practice of adjusting a website's content to make it appear as high as possible in search engine results (principally Google, which remains by far the most popular)(Lee, 2012). While there are general good practices that all sites can and should follow, given the importance of referrals and personal contacts that has been repeatedly shown, [hasn't it?] and the relatively niche, non-geographic nature of the creative technology industry, large amounts of traffic from search engines is  less important than cultivating good quality personal contacts. 
 
 The corollary of that is the necessity of having something for those contacts to remember you by, especially since the name the business operates under is not the easiest to recollect or spell. The humble business card is the obvious physical solution to this problem, and also poses a useful design problem to apply to the rest of the brand identity: what are the most essential pieces of information which have to be conveyed? What can be distilled down or removed entirely? The constraints of the format necessitate a thoughtful approach which can be usefully applied in other contexts. 
@@ -186,7 +184,7 @@ The standard method for ensuring this united brand identity is to have a set of 
 - Photography: When can it be used? Is there a thematic link with the subjects? 
 - Tone of voice: how does the brand come across in writing and in speech? Friendly or formal? This should apply to all copy that represents the brand, no matter how insignificant it may seem. 
 
-These guidelines provide a set of methods for maintaining a brand identity. 
+These guidelines provide a set of methods for maintaining a brand identity. Not all brands necessarily have such detailed guidelines covering all these points, but some general guidance, or in the case of a sole trader helps to create a unified front for 
 
 
 _______
@@ -197,18 +195,23 @@ _______
 
 ------
 ##Bibliography
+- Ali, Syed Reza | http://www.syedrezaali.com/blog/?page_id=2 | date unknown, retrieved 1/1/2014
 - Byron, D. L. | Publish and prosper: blogging for your business | Berkeley, Calif.: New Riders, 2006
 - Clark, Igor | Why We’re Not Hiring Creative Technologists | [online] available: http://blog.wk.com/2011/10/21/why-we-are-not-hiring-creative-technologists/ | 2011: retrieved 20/04/2013
 - Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
+- Dawes, Brendan | http://brendandawes.com/ | date unknown, retrieved 1/1/2014
 - Drew, Keith | Online branding | London: Laurence King, 2002
+- Goodchild, Stefan | http://triplegeek.com/ | date unknown, retrieved 1/1/2014
 - Hall, Erika | Just Enough Research | New York: A Book Apart, 2013
 - Heath, Chip | Made to stick: why some ideas take hold and others come unstuck |  London: Arrow Books, 2008
 - Houghton, Robin | Blogging for creatives: how designers, artists, crafters and writers can blog to make contacts, win business and build success | Lewes: Ilex, 2012
 - IDEO | Creative Technologist job listing [online] available: http://www.ideo.com/careers/creative-technologist | date unknown: retrieved 20/04/2013
+- Lee-Delisle, Seb | http://seb.ly/ | date unknown: retrieved 1/1/14
 - Monteiro, Mike | Design is a Job | New York: A Book Apart, 2012
 - North East of North | Programme 2012 | Dundee, 2012 | source: http://www.northeastofnorth.com/?event=100000-lux, retrieved 20/12/2013
-- Odden, Lee | Optimize :   how to attract and engage more customers by integrating SEO, social media, and content marketing | Hoboken, N.J. : Wiley, 2012
+- Odden, Lee | Optimize: how to attract and engage more customers by integrating SEO, social media, and content marketing | Hoboken, N.J. : Wiley, 2012
 - van den Akker, Patricia | Design & the Market Lecture | Dundee University, 2013 
+- Vantomme, Jan | http://www.cloudswimmers.com/what-we-do/ | date unknown, retrieved 1/1/2014
 
 --------
 
