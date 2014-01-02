@@ -131,8 +131,10 @@ He did acknowledge the potential pitfalls inherent in this tactic. In narrowing 
 Gianni noted that people's perception of you and your work can often have a more significant impact than we might think. Being seen as an organiser or facilitator, a speaker at conferences, or teaching can all make people have a different opinion of you, regardless of the the objective quality of your work. This speaks to the idea of concreteness as suggested by the Heath brothers: if people can associate your work with something they've personally experienced, that can be a big win. 
 
 
-###Competitor Analysis
-While the creative technology industry is relatively small, many of the people working in the field are quite accessible. While many work within agencies, and thus go uncredited, there are enough influential freelancers with online presences that it is possible 
+###Competitor/Collaborator Analysis
+While the creative technology industry is relatively small, many of the people working in the field are quite accessible. While many work within agencies, and thus go uncredited, there are enough influential freelancers with online presences that it is possible to get a flavour of how they brand themselves publicly. As this selection of online portfolios shows, there are a number of different approaches one can take. 
+
+Of these five examples, three use their name and personality as their main brand. One brands themselves differently, then explains that it does represent
 
 
 ###Application
@@ -187,6 +189,14 @@ The standard method for ensuring this united brand identity is to have a set of 
 These guidelines provide a set of methods for maintaining a brand identity. Not all brands necessarily have such detailed guidelines covering all these points, but some general guidance, or in the case of a sole trader helps to create a unified front for 
 
 
+####Logo Concepts
+- KM
+- // as a repetitive device — in non-techy font, a mixture of design and tech
+- too obvious?
+
+>Should a logo be self explanatory? It is only by association with a product, a service, a business or a corporation that a logo takes on any real meaning. It derives its meaning and usefulness from the quality of that which it symbolizes. (Rand, 1993, p.58).
+
+
 _______
 
 ##Conclusion
@@ -209,7 +219,8 @@ _______
 - Lee-Delisle, Seb | http://seb.ly/ | date unknown: retrieved 1/1/14
 - Monteiro, Mike | Design is a Job | New York: A Book Apart, 2012
 - North East of North | Programme 2012 | Dundee, 2012 | source: http://www.northeastofnorth.com/?event=100000-lux, retrieved 20/12/2013
-- Odden, Lee | Optimize: how to attract and engage more customers by integrating SEO, social media, and content marketing | Hoboken, N.J. : Wiley, 2012
+- Odden, Lee | Optimize: how to attract and engage more customers by integrating SEO, social media, and content marketing | Hoboken, N.J.: Wiley, 2012
+- Rand, Paul | Design, Form and Chaos | New Haven/London: Yale University Press, 1993 
 - van den Akker, Patricia | Design & the Market Lecture | Dundee University, 2013 
 - Vantomme, Jan | http://www.cloudswimmers.com/what-we-do/ | date unknown, retrieved 1/1/2014
 
