@@ -105,6 +105,12 @@ This is a tricky one. What kind of emotions do I want to evoke with my portfolio
 ####Stories
 This is the opportunity to tie all the preceding points together. Creating a coherent overall narrative is an opportunity to put the previous points into action, while the stories of individual projects can form layers of depth which reinforce that. 
 
+
+###Competitor/Collaborator Analysis
+While the creative technology industry is relatively small, many of the people working in the field are quite accessible. While many work within agencies, and thus go uncredited, there are enough influential freelancers with online presences that it is possible to get a flavour of how they brand themselves publicly. As this selection of online portfolios shows, there are a number of different approaches one can take. 
+
+Of these five examples, three use their name and personality as their main brand. One brands themselves differently, then explains that it does represent him alone, while the final one uses a studio name, although my understanding is that it is a single person operation.
+
 ###Case study: Quartic Llama
 [Quartic Llama](http://quarticllama.com/) are a Dundee-based games studio, founded in 2012 by graduates from the University of Abertay. In addition to their, for lack of a better term, "normal" games development work, they also collaborate extensively with cultural organisations, creating games and experiences. I first came across them when their piece [*100,000 Lux*](http://www.northeastofnorth.com/?event=100000-lux) was featured as part of Dundee's 2012 NEoN festival. A site specific performance using the coloured lighting on one of Abertay University's main buildings, combined with a striking soundtrack derived from solar observations, *100,000 Lux* marked Quartic Llama out as not your average game developer. Their collaboration with the National Theatre of Scotland, *Other*, is a location based augmented reality experience set in the streets of Dundee. At first glance it has little in common with either regular games or a piece like *100,000 Lux*, but after talking with Malath Abbas, an artist, designer and one of the founders of Quartic Llama, it's easier to pull together the threads running through their work. 
 
@@ -129,12 +135,6 @@ This is key to Gianni's attempt to diversify his interests. Although the fact th
 He did acknowledge the potential pitfalls inherent in this tactic. In narrowing his focus to the sustainability sector, is he discouraging potential clients from outside that area? Will being seen as a specialist in that area attract enough extra work to offset that? These are questions Gianni is grappling with currently, 
 
 Gianni noted that people's perception of you and your work can often have a more significant impact than we might think. Being seen as an organiser or facilitator, a speaker at conferences, or teaching can all make people have a different opinion of you, regardless of the the objective quality of your work. This speaks to the idea of concreteness as suggested by the Heath brothers: if people can associate your work with something they've personally experienced, that can be a big win. 
-
-
-###Competitor/Collaborator Analysis
-While the creative technology industry is relatively small, many of the people working in the field are quite accessible. While many work within agencies, and thus go uncredited, there are enough influential freelancers with online presences that it is possible to get a flavour of how they brand themselves publicly. As this selection of online portfolios shows, there are a number of different approaches one can take. 
-
-Of these five examples, three use their name and personality as their main brand. One brands themselves differently, then explains that it does represent
 
 
 ###Application
