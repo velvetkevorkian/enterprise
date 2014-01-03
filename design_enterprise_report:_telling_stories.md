@@ -140,8 +140,16 @@ Gianni noted that people's perception of you and your work can often have a more
 ###Application
 Having established what a brand is, why we would want one and how they can be communicated. How can we apply that to my own personal and professional brand? First we'll have a look at my current brand identity, such as it is, and then try and put into practice some of the lessons we've learned. 
 
-####What's my story? [stories?]
+####Values
+One of the first exercises featured in the Creative Enterprise Toolkit (Nesta, check date, pp.10-14) is to lay out the values to guide a prospective business. These were the most important things I identified during that exercise:
 
+- Being proud of the things I put into the world
+- Using technology creatively
+- Design as a means for solving problems
+- A healthy work/life balance
+
+####What's my story? [stories?]
+How can we distil those values into a succinct elevator pitch? The toolkit recommends two sentences: "What is it that I do?" and "Why should my customers care?"
 
 ####What are the requirements?
 The principal expression of a brand identity for a business with a digital focus is almost inevitably going to be a website. An online portfolio is a space that can be dedicated to telling a single story, or set of linked stories, which show off skills, abilities, and achievements. While it's important to be discoverable online, , there are whole businesses built around search engine optimisation — the practice of adjusting a website's content to make it appear as high as possible in search engine results (principally Google, which remains by far the most popular)(Lee, 2012). While there are general good practices that all sites can and should follow, given the importance of referrals and personal contacts that has been repeatedly shown, [hasn't it?] and the relatively niche, non-geographic nature of the creative technology industry, large amounts of traffic from search engines is  less important than cultivating good quality personal contacts. 
@@ -186,7 +194,14 @@ The standard method for ensuring this united brand identity is to have a set of 
 - Photography: When can it be used? Is there a thematic link with the subjects? 
 - Tone of voice: how does the brand come across in writing and in speech? Friendly or formal? This should apply to all copy that represents the brand, no matter how insignificant it may seem. 
 
-These guidelines provide a set of methods for maintaining a brand identity. Not all brands necessarily have such detailed guidelines covering all these points, but some general guidance, or in the case of a sole trader helps to create a unified front for 
+These guidelines provide a set of methods for maintaining a brand identity. Not all brands necessarily have such detailed guidelines covering all these points, but some general guidance helps maintain a unified front. My brand identity is not incredibly complex, and it only has to work in a few situations, but in the past they've been approached on an ad-hoc basis. Some common-sense principles and a few specific settings for colour and typography should serve to provide the consistency across screen and print that is needed.
+
+- Logo: dark grey on light grey or light grey on dark grey.
+- Colour: foreground/background/highlight
+- Typefaces, for logos, headings and body copy. This may have to include different fonts for different media, e.g. what works on screen may not work so well in print.
+- Look and feel: Crisp and modern. Minimal texture. Don't try to emulate physical materials. 
+- Photography: Use of photography and graphics is left to the designer's discretion, as long as the material being considered is of reasonable quality. Try and keep the same aspect ratios, at least on a per-page basis. 
+- Tone of voice: This should be similar to my personal tone of voice — fairly informal and friendly, while remaining generally rational and balanced. Choose an appropriate time and place to be more emotive, when needed — showing passion is better than remaining impartial all the time. Above all, avoid "legalese", unnecessary jargon or the stilted prose of a buzzword heavy CV — technical details are fine (and often necessary, in this line of work) but they should still be readable and enjoyable. 
 
 
 ####Logo Concepts
@@ -195,6 +210,8 @@ These guidelines provide a set of methods for maintaining a brand identity. Not 
 - too obvious?
 
 >Should a logo be self explanatory? It is only by association with a product, a service, a business or a corporation that a logo takes on any real meaning. It derives its meaning and usefulness from the quality of that which it symbolizes. (Rand, 1993, p.58).
+
+One of the 
 
 
 _______
@@ -258,15 +275,6 @@ The design and implementation of a website should be considered holistically, ra
 - The design/development should extend across both the main site and the blog, keeping as much continuity as possible in the branding, user experience and implementation as possible. 
 
 
-###Appendix X: Brand Guidelines
-My brand identity is not incredibly complex, and it only has to work in a select few situations. Some common-sense principles and a few specific settings for colour and typography should suffice.
-
-- Logo: dark grey on light grey or light grey on dark grey.
-- Colour: foreground/background/highlight
-- Typefaces, for logos, headings and body copy. This may have to include different fonts for different media, e.g. what works on screen may not work so well in print.
-- Look and feel: Crisp and modern. Minimal texture. Don't try to emulate physical materials. 
-- Photography: Use of photography and graphics is left to the designer's discretion, as long as the material being considered is of reasonable quality. Try and keep the same aspect ratios, at least on a per-page basis. 
-- Tone of voice: This should be similar to my personal tone of voice — fairly informal and friendly, while remaining generally rational and balanced. Choose an appropriate time and place to be more emotive, when needed — showing passion is better than remaining impartial all the time. Above all, avoid "legalese", unnecessary jargon or the stilted prose of a buzzword heavy CV — technical details are fine (and often necessary, in this line of work) but they should still be readable and enjoyable. 
 
 
 
