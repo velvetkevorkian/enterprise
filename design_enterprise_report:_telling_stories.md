@@ -138,7 +138,15 @@ One of the first exercises featured in the Creative Enterprise Toolkit (Nesta, c
 - A healthy work/life balance
 
 ####What's my story? [stories?]
-How can we distil those values into a succinct elevator pitch? The toolkit recommends two sentences: "What is it that I do?" and "Why should my customers care?"
+So, how can we distil those values into a succinct elevator pitch, taking into account the lessons of our case studies? This is what would go on a business card, for example, or as the single line summary on the front page of my website. The toolkit (Nesta, Book 2, p.2) recommends beginning with two sentences: "What is it that I do?" and "Why should my customers care?". In this case, the first might be:
+
+>I design and develop interactive experiences.  
+
+That's a bit dry and factual. 
+
+>I use code to design and make interactive experiences.
+
+
 
 ####What are the requirements?
 The principal expression of a brand identity for a business with a digital focus is almost inevitably going to be a website. An online portfolio is a space that can be dedicated to telling a single story, or set of linked stories, which show off skills, abilities, and achievements. While it's important to be discoverable online, , there are whole businesses built around search engine optimisation — the practice of adjusting a website's content to make it appear as high as possible in search engine results (principally Google, which remains by far the most popular)(Lee, 2012). While there are general good practices that all sites can and should follow, given the importance of referrals and personal contacts that has been repeatedly shown, [hasn't it?] and the relatively niche, non-geographic nature of the creative technology industry, large amounts of traffic from search engines is  less important than cultivating good quality personal contacts. 
