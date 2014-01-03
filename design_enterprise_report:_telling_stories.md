@@ -198,8 +198,11 @@ These guidelines provide a set of methods for maintaining a brand identity. Not 
 
 - Logo: dark grey on light grey or light grey on dark grey.
 - Colour: foreground/background/highlight
-- Typefaces, for logos, headings and body copy. This may have to include different fonts for different media, e.g. what works on screen may not work so well in print.
-- Look and feel: Crisp and modern. Minimal texture. Don't try to emulate physical materials. 
+- Typefaces: 
+	- Linux Biolinum G for headers, titles, etc. 
+	- Linux Libertine G for body copy.
+	- A classic serif header/sans-serif combination. Fortunately, both are available for free use, and provide an excellent balance of restrained modern styling and excellent readability at small sizes. This approach shows a tasteful approach to design, without the overtly technological slant the previously used font has. 
+- Look and feel: Crisp and modern. Use strict grid layouts where possible. Minimal texture. Don't try to emulate physical materials. 
 - Photography: Use of photography and graphics is left to the designer's discretion, as long as the material being considered is of reasonable quality. Try and keep the same aspect ratios, at least on a per-page basis. 
 - Tone of voice: This should be similar to my personal tone of voice — fairly informal and friendly, while remaining generally rational and balanced. Choose an appropriate time and place to be more emotive, when needed — showing passion is better than remaining impartial all the time. Above all, avoid "legalese", unnecessary jargon or the stilted prose of a buzzword heavy CV — technical details are fine (and often necessary, in this line of work) but they should still be readable and enjoyable. 
 
