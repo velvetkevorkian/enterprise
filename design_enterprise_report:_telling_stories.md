@@ -1,14 +1,3 @@
-#To do: 
-- go through and remove personal pronouns where possible
-- anecdotal stuff from internship: importance of linked in, connections etc
-- copy relevant bits of bibliography from proposal
-- work in nesta toolkit somewhere
-- think about presentation — something interactive would be cool, but it does have to work on paper (ask mike?)
-
-
-
-
-
 #Design Enterprise Report: Telling Stories
 
 ##Title page
