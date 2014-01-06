@@ -16,3 +16,21 @@ CB: We're often inspired by spaces. We start out looking for spaces that you wou
 KM: That's just like a personal network?
 
 CB: It is, yeah. I think that is really, really crucial. That's one of the things I'm trying to get across to my fourth years just now, that are studying computer arts and stuff: being part of your local creative community is number one. It's true. Networking's a horrible word... I kind of enjoy it, it doesn't feel like a task, but just to be really open. I think that's one thing that Dundee's really good at as well, the creative community in Dundee is really open about what are you up to just now? As soon as you say I was thinking about doing something like this, they'll say oh, have you spoken to so-and-so? It's just that sort of human level of it. Being good at socialising, conversing, conveying quite articulately what it is that you're looking to do.  
+
+KM: Yeah, I spoke to some people from the Fleet Collective and they were saying much the same thing, having that community.
+
+CB: That's what they're good at, that's what Creative Dundee are really good at, doing the midweek meets and the Pecha Kuchas and all that, it's just a really good way of networking essentially. Not just within the creative community either. A lot of the work that I've done here, we've worked with counselors and therapists, or forensic scientists, or physicists, with the police, people that might be a little bit like my work's got nothing to do with your work, why would you be interested in what I'm doing? Why would I be interested in what you're doing? I think there's different modes of language that need to be used when conversing with different communities. 
+
+KM: When you're talking to people about commissioning work or curating stuff, do say this person is an artist and you talk to them one way, this person is a technologist and you talk to them another way?
+
+CB: It's not as conscious as that. I think you need to be a bit of a social chameleon, and you need to be able to reflect the language that's coming at you, to be able to respond to that really quickly. Just essentially to be a good communicator. I don't necessarily put people in boxes. You maybe go with expectations, but you'll soon find they get blown out of the water anyway. It's not as simple as that. 
+
+KM: Do you find most of the people you're working with are somewhere in between, at that intersection? 
+
+CB: Yeah. You soon find a common ground. I think if you're a good communicator you can try and hook it in, and make it relevant to them. That's really important. What are they going to get out of it? It can't just be, I want something from you. Because I take the role of curator it's probably a bit different from a client commissioning, in a commercial sense. There's more of a closely aligned journey that you all go on together.
+
+KM: You just kind of let it happen.
+
+CB: Yeah. Maybe the artist doesn't like that, I don't know. Different curators work in different ways, but I find the best way to achieve what you both want from it is just to keep the lines of communication open all the time, and sometimes it can be really challenging, and a lot of work, especially when you're trying to communicate something visual via emails, or over the phone. The exhibition that's on just now, because the artist is based in London, a lot of that was done by Skyping — it's just so, so difficult to visualise what each other's speaking about. You end up doing these mad wee doodles, is this what you mean? But it's not like, go away and make me something and come back in two months and show me it. 
+
+KM: You see a lot of people working in that crative technology field, and there is a weird tension between this really amazing creative stuff and, like, it ends up in an ad campaign, and how do you exploit that to your advantage, if you can't avoid it. 
