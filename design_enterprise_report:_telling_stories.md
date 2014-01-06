@@ -146,6 +146,19 @@ That's a bit dry and factual.
 
 >I use code to design and make interactive experiences.
 
+That's a bit better — it references both design and technology.
+
+**do a third one**
+
+Answers to the second question — "Why should my customers care?" — mean I have to decide what approach to take. Is it better to appeal on a personal level or on a strictly commercial basis?
+
+> I can make things to make your life or your job easier and better.
+
+That's very vague and all-encompassing. Something a bit more specific is needed.
+
+>
+
+
 
 
 ####What are the requirements?
@@ -191,14 +204,15 @@ The standard method for ensuring this united brand identity is to have a set of 
 - Photography: When can it be used? Is there a thematic link with the subjects? 
 - Tone of voice: how does the brand come across in writing and in speech? Friendly or formal? This should apply to all copy that represents the brand, no matter how insignificant it may seem. 
 
-These guidelines provide a set of methods for maintaining a brand identity. Not all brands necessarily have such detailed guidelines covering all these points, but some general guidance helps maintain a unified front. My brand identity is not incredibly complex, and it only has to work in a few situations, but in the past they've been approached on an ad-hoc basis. Some common-sense principles and a few specific settings for colour and typography should serve to provide the consistency across screen and print that is needed.
+Not all brands necessarily have such detailed guidelines covering all these points, but some general guidance helps maintain a unified front. My brand identity is not incredibly complex, and it only has to work in a few situations, but in the past they've been approached on an ad-hoc basis. Some common-sense principles and a few specific settings for colour and typography should serve to provide the consistency across screen and print that is needed. We'll tackle them in a slightly different order: 
 
-- Logo: dark grey on light grey or light grey on dark grey.
-- Colour: foreground/background/highlight
 - Typefaces: 
 	- Linux Biolinum G for headers, titles, etc. 
 	- Linux Libertine G for body copy.
 	- A classic serif header/sans-serif combination. Fortunately, both are available for free use, and provide an excellent balance of restrained modern styling and excellent readability at small sizes. This approach shows a tasteful approach to design, without the overtly technological slant the previously used font has. 
+- Logo: dark grey on light grey or light grey on dark grey.
+- Colour: foreground/background/highlight
+
 - Look and feel: Crisp and modern. Use strict grid layouts where possible. Minimal texture. Don't try to emulate physical materials. 
 - Photography: Use of photography and graphics is left to the designer's discretion, as long as the material being considered is of reasonable quality. Try and keep the same aspect ratios, at least on a per-page basis. 
 - Tone of voice: This should be similar to my personal tone of voice — fairly informal and friendly, while remaining generally rational and balanced. Choose an appropriate time and place to be more emotive, when needed — showing passion is better than remaining impartial all the time. Above all, avoid "legalese", unnecessary jargon or the stilted prose of a buzzword heavy CV — technical details are fine (and often necessary, in this line of work) but they should still be readable and enjoyable. 
@@ -209,10 +223,11 @@ These guidelines provide a set of methods for maintaining a brand identity. Not 
 - // as a repetitive device — in non-techy font, a mixture of design and tech
 - too obvious?
 
+A logo is probably the most common association people make with a brand. It is not, however, the most important thing, according to Rand. 
+
 >Should a logo be self explanatory? It is only by association with a product, a service, a business or a corporation that a logo takes on any real meaning. It derives its meaning and usefulness from the quality of that which it symbolizes. (Rand, 1993, p.58).
 
-One of the 
-
+Later, he uses Mercedes Benz as an example of a logo whose power is derived not from any literal connection but "is a great symbol, not because its design is great but because it stands for a great product" (ibid, p.61). On this basis, something 
 
 _______
 
@@ -228,6 +243,7 @@ _______
 - Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
 - Dawes, Brendan | http://brendandawes.com/ | date unknown, retrieved 1/1/2014
 - Drew, Keith | Online branding | London: Laurence King, 2002
+- Gifford, Hoss | Things I Have Learned | 2011 | https://vimeo.com/21441042
 - Goodchild, Stefan | http://triplegeek.com/ | date unknown, retrieved 1/1/2014
 - Hall, Erika | Just Enough Research | New York: A Book Apart, 2013
 - Heath, Chip | Made to stick: why some ideas take hold and others come unstuck |  London: Arrow Books, 2008
