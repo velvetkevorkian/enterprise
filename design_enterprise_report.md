@@ -123,19 +123,48 @@ This is key to Gianni's attempt to diversify his interests. Although the fact th
 
 He did acknowledge the potential pitfalls inherent in this tactic. In narrowing his focus to the sustainability sector, is he discouraging potential clients from outside that area? Will being seen as a specialist in that area attract enough extra work to offset that? These are questions Gianni is grappling with currently, 
 
-Gianni noted that people's perception of you and your work can often have a more significant impact than we might think. Being seen as an organiser or facilitator, a speaker at conferences, or teaching can all make people have a different opinion of you, regardless of the the objective quality of your work. This speaks to the idea of concreteness as suggested by the Heath brothers: if people can associate your work with something they've personally experienced, that can be a big win. 
+Gianni also noted that people's perception of you and your work can often have a more significant impact than we might think. Being seen as an organiser or facilitator, a speaker at conferences, or teaching can all make people have a different opinion of you, regardless of the the objective quality of your work. This speaks to the idea of concreteness as suggested by the Heath brothers: if people can associate your work with something they've personally experienced, that can be a big win. 
 
 
 ###Application
 Having established what a brand is, why we would want one and how they can be communicated. How can we apply that to my own personal and professional brand? First we'll have a look at my current brand identity, such as it is, and then try and put into practice some of the lessons we've learned. 
 
+
+####Benchmarking
+Before any branding project can begin there is a research phase — the current brand identity and its applications needs to be assessed to establish how effective it is, before a solution can be proposed (Hall 2013, pp.215-219).
+
+The presence in question has only had a couple of opportunities to be effective, the most significant being the summer of 2013, as part of a successful application for an internship with the branding agency Lambie-Nairn. David Stockfis, who is now a freelance designer but was the design director at Lambie-Nairn in charge of the project, provided some valuable feedback:
+
+>Personal branding's tricky. And somewhat subjective. Some people/studios love a high-impact over-the-top approach... I personally prefer a much simpler/pared back style e.g not much of a personal brand, simple website or pdf showing your best work, up-to-date LinkedIn etc.       
+<br>
+I like Kyle's no-nonsense personality, honesty and wit. I think it's important that side of him is visible in his profile and I think it'll help him stand out.
+<br>     
+For employability I'd suggest he's a bit more prescriptive about his skill set. On his website he talks about 'Making design/web/code/art/sound things.' and 'Finely Crafted Electrons'. It's not really clear that he could knock you up an awesome website. I think he should show some of his work on the homepage too.
+<br>    
+He might want to look at re-ordering the projects in his portfolio/website as well, depending on the direction he wants to take. If he's looking for more experimental/advanced tech positions keep those first or more commercial web development maybe re-shuffle those to the top etc.
+
+David's analysis is hard to fault. The literal story is unclear, with the tagline obscuring more than it explains. Although this can be a valid tactic (e.g. see Abbas, 2013) it's not ideal in a context where explaining what's on offer is already difficult. The narrative provided by the elements of a portfolio is unnecessarily hidden an extra page deep for no good reason; the abstract home page design offers little of value, especially as most users won't know (or care) about the randomised properties of the central graphic. 
+
+The point about an "up-to-date LinkedIn" bears further examination. As noted earlier, a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization" (Drew, 2002, p.4).  For our purposes, this includes points of contact such as LinkedIn and Twitter, as well as a professional website and blog, all of which currently have somewhat disparate visual and editorial styles. 
+
+While blogging may not have the cultural significance that it once did, it can still provide a valuable outlet for displaying abilities which may not be obvious from a portfolio. 
+>[B]logs have become fantastic PR tools for [a] blogger's business, or their art, or their expertise.  
+<br>
+Everything that happens on your blog can affect people's perceptions of your reputation and whatever it is you're selling. That's also the case elsewhere online (on social networks, for example), but the difference is that your blog is within your control — it is literally your domain. [Houghton, p.156)
+
+Experiments, small side projects and miscellaneous writings, while not necessarily directly related to client work, can show a wider range of personality and ability than a portfolio alone, which is more constrained by the need to include finished works. Given the importance of communication skills in virtually all fields, having a place to practice writing and demonstrate one's abilities can be advantageous. If kept up to date, it can also be an indicator of ongoing activity, as opposed to a portfolio site that may only get updated occasionally or not at all, depending on the nature of the work being done. 
+
+Unfortunately, at the time of writing, the designs of the main website and its associated blog have diverged somewhat, thanks to the relative difficulty of customising Wordpress themes. Unifying them under a single, modernised, branded identity would probably be the change that would have most impact on the online brand presence. 
+
+Other online venues, for example social media like Twitter, LinkedIn and Google+, also benefit from a unified brand identity. Ensuring they all present a common front, at least as far as possible, means making the most of the available customisation options — while these vary from service to service, using a style guide can at least make them as cohesive as possible.
+
 ####Values
-One of the first exercises featured in the Creative Enterprise Toolkit (Nesta, check date, pp.10-14) is to lay out the values to guide a prospective business. These were the most important things I identified during that exercise:
+One of the first exercises featured in the Creative Enterprise Toolkit (Nesta, check date, pp.10-14) is to lay out the values to guide a prospective business. These were the most important things I identified during that exercise, focusing on public facing ones:
 
 - Being proud of the things I put into the world
 - Using technology creatively
 - Design as a means for solving problems
-- A healthy work/life balance
+
 
 ####What's my story? [stories?]
 So, how can we distil those values into a succinct elevator pitch, taking into account the lessons of our case studies? This is what would go on a business card, for example, or as the single line summary on the front page of my website. The toolkit (Nesta, Book 2, p.2) recommends beginning with two sentences: "What is it that I do?" and "Why should my customers care?". In this case, the first might be:
@@ -166,33 +195,7 @@ The principal expression of a brand identity for a business with a digital focus
 
 The corollary of that is the necessity of having something for those contacts to remember you by, especially since the name the business operates under is not the easiest to recollect or spell. The humble business card is the obvious physical solution to this problem, and also poses a useful design problem to apply to the rest of the brand identity: what are the most essential pieces of information which have to be conveyed? What can be distilled down or removed entirely? The constraints of the format necessitate a thoughtful approach which can be usefully applied in other contexts. 
 
-####Benchmarking
-Before any branding project can begin there is a research phase — the current brand identity and its applications needs to be assessed to establish how effective it is, before a solution can be proposed (Hall 2013, pp.215-219).
 
-The presence in question has only had a couple of opportunities to be effective, the most significant being the summer of 2013, as part of a successful application for an internship with the branding agency Lambie-Nairn. David Stockfis, who is now a freelance designer but was the design director at Lambie-Nairn in charge of the project, provided some valuable feedback:
-
->Personal branding's tricky. And somewhat subjective. Some people/studios love a high-impact over-the-top approach... I personally prefer a much simpler/pared back style e.g not much of a personal brand, simple website or pdf showing your best work, up-to-date LinkedIn etc.       
-<br>
-I like Kyle's no-nonsense personality, honesty and wit. I think it's important that side of him is visible in his profile and I think it'll help him stand out.
-<br>     
-For employability I'd suggest he's a bit more prescriptive about his skill set. On his website he talks about 'Making design/web/code/art/sound things.' and 'Finely Crafted Electrons'. It's not really clear that he could knock you up an awesome website. I think he should show some of his work on the homepage too.
-<br>    
-He might want to look at re-ordering the projects in his portfolio/website as well, depending on the direction he wants to take. If he's looking for more experimental/advanced tech positions keep those first or more commercial web development maybe re-shuffle those to the top etc.
-
-David's analysis is hard to fault. The literal story is unclear, with the tagline obscuring more than it explains. Although this can be a valid tactic (e.g. see Abbas, 2013) it's not ideal in a context where explaining what's on offer is already difficult. The narrative provided by the elements of a portfolio is unnecessarily hidden an extra page deep for no good reason; the abstract home page design offers little of value, especially as most users won't know (or care) about the randomised properties of the central graphic. 
-
-The point about an "up-to-date LinkedIn" bears further examination. As noted earlier, a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization" (Drew, 2002, p.4).  For our purposes, this includes points of contact such as LinkedIn and Twitter, as well as a professional website and blog, all of which currently have somewhat disparate visual and editorial styles. 
-
-While blogging may not have the cultural significance that it once did, it can still provide a valuable outlet for displaying abilities which may not be obvious from a portfolio. 
->[B]logs have become fantastic PR tools for [a] blogger's business, or their art, or their expertise.  
-<br>
-Everything that happens on your blog can affect people's perceptions of your reputation and whatever it is you're selling. That's also the case elsewhere online (on social networks, for example), but the difference is that your blog is within your control — it is literally your domain. [Houghton, p.156)
-
-Experiments, small side projects and miscellaneous writings, while not necessarily directly related to client work, can show a wider range of personality and ability than a portfolio alone, which is more constrained by the need to include finished works. Given the importance of communication skills in virtually all fields, having a place to practice writing and demonstrate one's abilities can be advantageous. If kept up to date, it can also be an indicator of ongoing activity, as opposed to a portfolio site that may only get updated occasionally or not at all, depending on the nature of the work being done. 
-
-Unfortunately, at the time of writing, the designs of the main website and its associated blog have diverged somewhat, thanks to the relative difficulty of customising Wordpress themes. Unifying them under a single, modernised, branded identity would probably be the change that would have most impact on the online brand presence. 
-
-Other online venues, for example social media like Twitter, LinkedIn and Google+, also benefit from a unified brand identity. Ensuring they all present a common front, at least as far as possible, means making the most of the available customisation options — while these vary from service to service, using a style guide can at least make them as cohesive as possible.
 
 ####Brand Guidelines
 The standard method for ensuring this united brand identity is to have a set of brand guidelines. This provides a standardised approach to the visual and editorial content that represents the brand. The precise content varies depending on the brand, but can be summarised thusly (Davis, 2005, pp.206-7):
