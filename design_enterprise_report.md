@@ -143,7 +143,9 @@ For employability I'd suggest he's a bit more prescriptive about his skill set. 
 <br>    
 He might want to look at re-ordering the projects in his portfolio/website as well, depending on the direction he wants to take. If he's looking for more experimental/advanced tech positions keep those first or more commercial web development maybe re-shuffle those to the top etc.
 
-David's analysis is hard to fault. The literal story is unclear, with the tagline obscuring more than it explains. Although this can be a valid tactic (e.g. see Abbas, 2013) it's not ideal in a context where explaining what's on offer is already difficult. The narrative provided by the elements of a portfolio is unnecessarily hidden an extra page deep for no good reason; the abstract home page design offers little of value, especially as most users won't know (or care) about the randomised properties of the central graphic. 
+David's analysis is hard to fault. The literal story the site tries to tell is unclear, with the tagline obscuring more than it explains. Although this can be a valid tactic (as in the case of Quartic Llama, as we saw earlier) it's not ideal in a context where explaining what's on offer is already difficult. The narrative provided by the elements of a portfolio is unnecessarily hidden an extra page deep for no good reason; the abstract home page design offers little of value, especially as most users won't know (or care) about the randomised properties of the central graphic. The information architecture, user experience and visual design will need updated to be more effective. 
+
+####Other Venues
 
 The point about an "up-to-date LinkedIn" bears further examination. As noted earlier, a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization" (Drew, 2002, p.4).  For our purposes, this includes points of contact such as LinkedIn and Twitter, as well as a professional website and blog, all of which currently have somewhat disparate visual and editorial styles. 
 
@@ -156,7 +158,9 @@ Experiments, small side projects and miscellaneous writings, while not necessari
 
 Unfortunately, at the time of writing, the designs of the main website and its associated blog have diverged somewhat, thanks to the relative difficulty of customising Wordpress themes. Unifying them under a single, modernised, branded identity would probably be the change that would have most impact on the online brand presence. 
 
-Other online venues, for example social media like Twitter, LinkedIn and Google+, also benefit from a unified brand identity. Ensuring they all present a common front, at least as far as possible, means making the most of the available customisation options — while these vary from service to service, using a style guide can at least make them as cohesive as possible.
+Other online venues, for example social media like Twitter, LinkedIn and Google+, also benefit from a unified brand identity. Social media is an increasingly powerful tool for recruitment, both for freelancers and people seeking steady employment. My network of choice is Twitter, which is set to see millions of opportunities tweeted in coming years (Pitts, 2014). On a smaller scale, "The web industry runs on [G]ithub [a code sharing site for developers] and [T]witter" (Roberts, 2013).
+
+In these cases, ensuring they all present a common front, at least as far as possible, means making the most of the available customisation options — while these vary from service to service, using a style guide can at least make them as cohesive as possible.
 
 ####Values
 One of the first exercises featured in the Creative Enterprise Toolkit (Nesta, check date, pp.10-14) is to lay out the values to guide a prospective business. These were the most important things I identified during that exercise, focusing on public facing ones:
@@ -171,7 +175,7 @@ So, how can we distil those values into a succinct elevator pitch, taking into a
 
 >I design and develop interactive experiences.  
 
-That's a bit dry and factual. 
+It's a bit dry and factual. 
 
 >I use code to design and make interactive experiences.
 
@@ -256,7 +260,9 @@ _______
 - Monteiro, Mike | Design is a Job | New York: A Book Apart, 2012
 - North East of North | Programme 2012 | Dundee, 2012 | source: http://www.northeastofnorth.com/?event=100000-lux, retrieved 20/12/2013
 - Odden, Lee | Optimize: how to attract and engage more customers by integrating SEO, social media, and content marketing | Hoboken, N.J.: Wiley, 2012
+- Pitts, Anna | Predictions for the 2014 graduate jobs market: change and opportunity | http://careers.theguardian.com/careers-blog/predictions-2014-graduate-job-change-opportunity | 2014: retrieved 7/1/2014
 - Rand, Paul | Design, Form and Chaos | New Haven/London: Yale University Press, 1993 
+- Roberts, Philip | Career "Advice" | http://latentflip.com/career-advice/ | 2013: retrieved 7/1/2014
 - van den Akker, Patricia | Design & the Market Lecture | Dundee University, 2013 
 - Vantomme, Jan | http://www.cloudswimmers.com/what-we-do/ | date unknown, retrieved 1/1/2014
 
