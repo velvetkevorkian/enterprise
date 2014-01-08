@@ -44,8 +44,6 @@ This is not a new problem, nor is it one that is unique to the creative technolo
 
 ##Middle bit (provisional title)
 
-reorder: /what is creative tech/what is branding/case studies/made to stick/benchmarking etc
-
 ###What is branding?
 Fundamentally, the issue at stake here is a matter of branding and marketing.  What elements go into making a brand successful, and how can they be applied to a freelance creative technologist's professional identity?
 
@@ -64,7 +62,7 @@ The stories that others tell about a business can be even more important than th
 ###On making ideas stick
 Communicating what we do to people who have little to no awareness of the surrounding area can be problematic. Without a clear and concise explanation, the chances of them understanding what interaction design is are slim — and the chances of getting paid work from them is slimmer still. What we need is a method for making sure our message is easily understood and remembered, without sacrificing accuracy.
 
-Fortunately, there are manuals for this sort of thing. One of these is *Made to Stick*, by the brothers Heath. They propose the concept of "stickiness" — ideas which are both memorable and meaningful — and offer "SUCCESs", a six point checklist for making ideas "sticky":
+Fortunately, there are manuals for this sort of thing. One of these is *Made to Stick*, by the brothers Heath. They propose the concept of "stickiness" — ideas which are both memorable and meaningful — and offer "SUCCES", a six point checklist for making ideas "sticky":
 
 1. Simplicity
 2. Unexpectedness
@@ -72,7 +70,6 @@ Fortunately, there are manuals for this sort of thing. One of these is *Made to 
 4. Credibility
 5. Emotions
 6. Stories
-7. -
 
 Ideas that don't follow these rules can still stay with people, and we don't necessarily have to check off every point. They do, however, provide a useful guide for how we can communicate complex concepts clearly. Let's have a look at how we can apply the SUCCESs principles to branding and presenting our portfolio website, and telling our professional story. 
 
@@ -100,12 +97,17 @@ While the creative technology industry is relatively small, many of the people w
 
 Of these five examples, three use their name and personality as their main brand. One brands themselves differently, then explains that it does represent him alone, while the final one uses a studio name, although my understanding is that it is a single person operation.
 
-####Brendan Dawes
+###Case Study: Brendan Dawes
 Brendan Dawes is one of the best known figures in the creative technology space, having written several books on interaction design and innovative uses of Flash. He was creative director at the digital agency Magnetic North before going freelance.  His brief introduction is an effective summary of what he does:
 
 >Brendan Dawes is a designer and artist exploring the interaction of objects, people, technology and art using an eclectic mix of digital and analog materials, for himself and for clients around the globe. (Dawes, date unknown)
 
-This no-nonsense approach mirrors Dawes' straightforward personal style, evident in his talks and writings (e.g. Dawes, 2007). 
+This no-nonsense approach mirrors Dawes' straightforward personal style, evident in his talks and writings (e.g. Dawes, 2007). The message is clear-cut, and the graphic style is simple but effective. His work is mostly allowed to carry the narrative. 
+
+###Case Study: Stefan Goodchild
+>My name is Stefan Goodchild and I'm a freelance creative coder, motion graphics & interaction designer, living in Bristol, UK  
+<br>
+I create motion graphics and real time interactive visuals with code using Processing and openFrameworks for concerts, installations, television, and conferences.
 
 
 
@@ -248,11 +250,20 @@ This should be similar to my personal tone of voice — fairly informal and frie
 ####Photography
 This isn't really important at this point, since any imagery is more likely to be depicting a project I worked on, rather than selected for purely aesthetic value. I'm going to leave this one open for now.  
 
+####Implementation
+
+- Business card
+- CV
+- homepage
+- blog homepage
+- logo development
+- colour swatches and logo colours
+
 
 ______
 
 ###Networking
-Regardless of how well thought out and designed a personal brand is, it's far less important than talking to real people in the creative community. Several people interviewed for this report mentioned the value of networking.
+Regardless of how well thought out and designed a personal brand is, it's far less effective than talking to other people in the creative community. Clare Brennan, Rory Gianni and Malath Abbas all made much the same point in conversation: being present and visible, whether as a practitioner, a facilitator, or both, is vital to establishing a creative freelance business. 
 
 _______
 
@@ -260,6 +271,9 @@ _______
 
 - Having a personal brand is important for freelancers when promoting themselves
 - But not as important as personal contacts!
+- image and brand are vital to how people perceive you, even when you don't necessarily want them to be
+- Having a clear story to tell, and for others to tell about you, helps get you known
+- Keeping in mind the SUCCES checklist can help with that. 
 
 
 ------

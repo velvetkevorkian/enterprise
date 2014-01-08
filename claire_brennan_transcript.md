@@ -1,4 +1,4 @@
-#Clare Brennan Interview: 11/12/
+#Clare Brennan Interview: 11/12/2013
 Featuring:
     Clare Brennan (CB)
     Kyle Macquarrie (KM)

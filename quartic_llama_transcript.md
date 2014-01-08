@@ -1,7 +1,7 @@
 #Quartic Llama interview: 17/10/2013
 featuring: 
-    Malath Abbas (MA)
-    Kyle Macquarrie (KM)
+- Malath Abbas (MA)
+- Kyle Macquarrie (KM)
     
 KM: Do you guys still pitch yourself as a games design company, a games studio?
 
