@@ -96,12 +96,21 @@ This is the opportunity to tie all the preceding points together. Creating a coh
 
 
 ###Competitor/Collaborator Analysis
-While the creative technology industry is relatively small, many of the people working in the field are quite accessible. While many work within agencies, and thus go uncredited, there are enough influential freelancers with online presences that it is possible to get a flavour of how they brand themselves publicly. As this selection of online portfolios shows, there are a number of different approaches one can take. 
+While the creative technology industry is relatively small, many of the people working in the field are quite accessible. While many work within agencies, and thus go uncredited, there are enough influential freelancers with online presences that it is possible to get a flavour of how they brand themselves publicly. As this selection of online portfolios shows, there are a number of different approaches one can take to telling the story of who you are and what you do. 
 
 Of these five examples, three use their name and personality as their main brand. One brands themselves differently, then explains that it does represent him alone, while the final one uses a studio name, although my understanding is that it is a single person operation.
 
+####Brendan Dawes
+Brendan Dawes is one of the best known figures in the creative technology space, having written several books on interaction design and innovative uses of Flash. He was creative director at the digital agency Magnetic North before going freelance.  His brief introduction is an effective summary of what he does:
+
+>Brendan Dawes is a designer and artist exploring the interaction of objects, people, technology and art using an eclectic mix of digital and analog materials, for himself and for clients around the globe. (Dawes, date unknown)
+
+This no-nonsense approach mirrors Dawes' straightforward personal style, evident in his talks and writings (e.g. Dawes, 2007). 
+
+
+
 ###Case study: Quartic Llama
-[Quartic Llama](http://quarticllama.com/) are a Dundee-based games studio, founded in 2012 by graduates from the University of Abertay. In addition to their, for lack of a better term, "normal" games development work, they also collaborate extensively with cultural organisations, creating games and experiences. I first came across them when their piece [*100,000 Lux*](http://www.northeastofnorth.com/?event=100000-lux) was featured as part of Dundee's 2012 NEoN festival. A site specific performance using the coloured lighting on one of Abertay University's main buildings, combined with a striking soundtrack derived from solar observations, *100,000 Lux* marked Quartic Llama out as not your average game developer. Their collaboration with the National Theatre of Scotland, *Other*, is a location based augmented reality experience set in the streets of Dundee. At first glance it has little in common with either regular games or a piece like *100,000 Lux*, but after talking with Malath Abbas, an artist, designer and one of the founders of Quartic Llama, it's easier to pull together the threads running through their work. 
+Quartic Llama are a Dundee-based games studio, founded in 2012 by graduates from the University of Abertay. In addition to their, for lack of a better term, "normal" games development work, they also collaborate extensively with cultural organisations, creating games and experiences. I first came across them when their piece *100,000 Lux* was featured as part of Dundee's 2012 NEoN festival. A site specific performance using the coloured lighting on one of Abertay University's main buildings, combined with a striking soundtrack derived from solar observations, *100,000 Lux* marked Quartic Llama out as not your average game developer. Their collaboration with the National Theatre of Scotland, *Other*, is a location based augmented reality experience set in the streets of Dundee. At first glance it has little in common with either regular games or a piece like *100,000 Lux*, but after talking with Malath Abbas, an artist, designer and one of the founders of Quartic Llama, it's easier to pull together the threads running through their work. 
 
 The identity that Quartic Llama present on their website is actually quite enigmatic. According to Malath, this is a deliberate ploy to draw people in. For him, crafting an image is all about telling a story.
 
@@ -222,7 +231,7 @@ Not all brands necessarily have such detailed guidelines covering all these poin
 
 - Look and feel: Crisp and modern. Use strict grid layouts where possible. Minimal texture. Don't try to emulate physical materials. 
 - Photography: Use of photography and graphics is left to the designer's discretion, as long as the material being considered is of reasonable quality. Try and keep the same aspect ratios, at least on a per-page basis. 
-- Tone of voice: This should be similar to my personal tone of voice — fairly informal and friendly, while remaining generally rational and balanced. Choose an appropriate time and place to be more emotive, when needed — showing passion is better than remaining impartial all the time. Above all, avoid "legalese", unnecessary jargon or the stilted prose of a buzzword heavy CV — technical details are fine (and often necessary, in this line of work) but they should still be readable and enjoyable. 
+- Tone of voice: This should be similar to my personal tone of voice — fairly informal and friendly, while remaining generally rational and balanced. Choose an appropriate time and place to be more emotive, when needed — showing passion is better than remaining impartial all the time. Above all, avoid "legalese", unnecessary jargon or the stilted prose of a buzzword heavy CV — complex details are fine (and often necessary, when dealing with technical work) but they should still be as readable and enjoyable as possible. 
 
 
 ####Logo Concepts
@@ -230,11 +239,13 @@ Not all brands necessarily have such detailed guidelines covering all these poin
 - // as a repetitive device — in non-techy font, a mixture of design and tech
 - too obvious?
 
-A logo is probably the most common association people make with a brand. It is not, however, the most important thing, according to Rand. 
+A logo is probably the most common association people make with a brand. It is not, however, the most important thing, nor does it necessarily require deep conceptual meaning. 
 
 >Should a logo be self explanatory? It is only by association with a product, a service, a business or a corporation that a logo takes on any real meaning. It derives its meaning and usefulness from the quality of that which it symbolizes. (Rand, 1993, p.58).
 
-Later, he uses Mercedes Benz as an example of a logo whose power is derived not from any literal connection but "is a great symbol, not because its design is great but because it stands for a great product" (ibid, p.61). On this basis, something 
+He cites Mercedes Benz as an example of a logo whose power is derived not from any literal connection but "is a great symbol, not because its design is great but because it stands for a great product" (ibid, p.61). On this basis, something functional will suffice for our purposes. 
+
+Constraints are often beneficial for designers. In this case, the logo has been designed to be visible and identifiable at small sizes; specifically,  the sixteen pixel square of the favicon of a standard web browser tab. 
 
 _______
 
@@ -243,63 +254,3 @@ _______
 
 
 ------
-##Bibliography
-- Ali, Syed Reza | http://www.syedrezaali.com/blog/?page_id=2 | date unknown, retrieved 1/1/2014
-- Byron, D. L. | Publish and prosper: blogging for your business | Berkeley, Calif.: New Riders, 2006
-- Clark, Igor | Why We’re Not Hiring Creative Technologists | [online] available: http://blog.wk.com/2011/10/21/why-we-are-not-hiring-creative-technologists/ | 2011: retrieved 20/04/2013
-- Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
-- Dawes, Brendan | http://brendandawes.com/ | date unknown, retrieved 1/1/2014
-- Drew, Keith | Online branding | London: Laurence King, 2002
-- Gifford, Hoss | Things I Have Learned | 2011 | https://vimeo.com/21441042
-- Goodchild, Stefan | http://triplegeek.com/ | date unknown, retrieved 1/1/2014
-- Hall, Erika | Just Enough Research | New York: A Book Apart, 2013
-- Heath, Chip | Made to stick: why some ideas take hold and others come unstuck |  London: Arrow Books, 2008
-- Houghton, Robin | Blogging for creatives: how designers, artists, crafters and writers can blog to make contacts, win business and build success | Lewes: Ilex, 2012
-- IDEO | Creative Technologist job listing [online] available: http://www.ideo.com/careers/creative-technologist | date unknown: retrieved 20/04/2013
-- Lee-Delisle, Seb | http://seb.ly/ | date unknown: retrieved 1/1/14
-- Monteiro, Mike | Design is a Job | New York: A Book Apart, 2012
-- North East of North | Programme 2012 | Dundee, 2012 | source: http://www.northeastofnorth.com/?event=100000-lux, retrieved 20/12/2013
-- Odden, Lee | Optimize: how to attract and engage more customers by integrating SEO, social media, and content marketing | Hoboken, N.J.: Wiley, 2012
-- Pitts, Anna | Predictions for the 2014 graduate jobs market: change and opportunity | http://careers.theguardian.com/careers-blog/predictions-2014-graduate-job-change-opportunity | 2014: retrieved 7/1/2014
-- Rand, Paul | Design, Form and Chaos | New Haven/London: Yale University Press, 1993 
-- Roberts, Philip | Career "Advice" | http://latentflip.com/career-advice/ | 2013: retrieved 7/1/2014
-- van den Akker, Patricia | Design & the Market Lecture | Dundee University, 2013 
-- Vantomme, Jan | http://www.cloudswimmers.com/what-we-do/ | date unknown, retrieved 1/1/2014
-
---------
-
-##Appendices
-
-###Appendix A: Lambie-Nairn/Telefonica internship
-Excuse the personal tone of this section, but it seems appropriate as a piece of reflective writing rather than an academic summary. 
-
-I spent the majority of summer 2013 (mid May to mid August) working in London. The client commissioning the project, Telefónica UK, have a number of initiatives aimed at giving young (and in my case, not *so* young) people opportunities in training and work, which come under their commitments to being a sustainable business. As part of this, they commissioned Lambie-Nairn to find two paid interns to design and build Telefónica UK's sustainability report for the year. I was fortunate to be chosen to do the front end development, in partnership with a graphic designer. We worked closely with the client and both the design team at Lambie-Nairn and their digital partners at Morph London. As a result, I got to see how a larger branding agency works, as well as a smaller more specialist digital agency. This has also given me the opportunity to do some freelance development work with the digital agency. From this I can draw a few conclusions: 
-- As noted repeatedly, personal contacts are vital. 
-- In terms of income, freelancing as a front-end developer would be a viable route for me to take, even if not as a primary goal. 
-- Working for a smaller specialist agency is far more appealing to me than being part of a large team.
-- The ability to get things done and get them out the door is more important than worrying about the technical minutiae of a particular solution.
-- "Soft" skills are even more important. Being able to communicate and work with both clients and other team members is probably the key factor in almost every situation. 
-
-There are also a number of logistical and organisational lessons I learned, from both experience and observation. Unfortunately these are harder to distil into an easily told story, being both dependent on having the context explained, and possibly slightly unflattering to some of those concerned. The stories told publicly about this (great!) experience will have to be selected to reflect that. 
-
-I was surprised to find how much weight some people place on LinkedIn as a recruitment tool. The MD of the digital agency I was working with received several hundred applications last time they advertised a full-time position, and he used LinkedIn references to whittle that down to a shortlist of a dozen or so to interview. It just reinforces how important making contacts and getting personal references is, for freelancers and full-timers alike. 
-
-###Appendix X: Portfolio Website Proposal
-
-####Overview
-As part of the branding process, an updated website is required, reflecting the brand identity. This document sets out the reasoning behind the design, development, and content strategy.
-
-####Technical/Design Requirements
-The design and implementation of a website should be considered holistically, rather than creating artificial distinctions between disciplines. 
-
-- The site needs to show a selection of work in a portfolio style. The main page should show summaries of all featured projects with links to more in-depth material on separate pages. 
-- The site should follow the style guide previously laid out for visual design.
-- The site must be fast and easy to use. It should be responsive and touch friendly, so as to work well on all devices regardless of screen size and form factor. 
-- It should implement Twitter cards, Open Graph (Facebook/LinkedIn), and Google+ authorship metadata, to ensure all presences are connected and search engine optimised as per best practices. 
-- Ideally it would implement a technique for responsive images, although since there is not yet a standards-based solution it's difficult to choose a solution that doesn't complicate matters more than it helps. 
-- The design/development should extend across both the main site and the blog, keeping as much continuity as possible in the branding, user experience and implementation as possible. 
-
-
-
-
-
