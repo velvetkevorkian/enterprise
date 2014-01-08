@@ -220,37 +220,46 @@ The standard method for ensuring this united brand identity is to have a set of 
 - Photography: When can it be used? Is there a thematic link with the subjects? 
 - Tone of voice: how does the brand come across in writing and in speech? Friendly or formal? This should apply to all copy that represents the brand, no matter how insignificant it may seem. 
 
-Not all brands necessarily have such detailed guidelines covering all these points, but some general guidance helps maintain a unified front. My brand identity is not incredibly complex, and it only has to work in a few situations, but in the past they've been approached on an ad-hoc basis. Some common-sense principles and a few specific settings for colour and typography should serve to provide the consistency across screen and print that is needed. We'll tackle them in a slightly different order: 
+Not all brands necessarily have such detailed guidelines covering all these points, but some general guidance helps maintain a unified front. My brand identity is not incredibly complex, and it only has to work in a few situations, but in the past they've been approached on an ad-hoc basis. Some common-sense principles and a few specific settings for colour and typography should serve to provide the consistency across screen and print that is needed. We'll tackle them in a slightly different order.
 
-- Typefaces: 
-	- Linux Biolinum G for headers, titles, etc. 
-	- Linux Libertine G for body copy.
-	- A classic serif header/sans-serif combination. Fortunately, both are available for free use, and provide an excellent balance of restrained modern styling and excellent readability at small sizes. This approach shows a tasteful approach to design, without the overtly technological slant the previously used font has. 
-- Logo: dark grey on light grey or light grey on dark grey.
-- Colour: foreground/background/highlight
+####Typography
+Using a classic serif header/sans-serif combination, Linux Biolinum G will serve as a heading font, with Linux Libertine G for body copy. Fortunately, both are available for free use, and provide an excellent balance of restrained modern styling and excellent readability at small sizes. This approach shows a tasteful approach to design, without the overtly technological slant the previously used font, Jura, had. 
 
-- Look and feel: Crisp and modern. Use strict grid layouts where possible. Minimal texture. Don't try to emulate physical materials. 
-- Photography: Use of photography and graphics is left to the designer's discretion, as long as the material being considered is of reasonable quality. Try and keep the same aspect ratios, at least on a per-page basis. 
-- Tone of voice: This should be similar to my personal tone of voice — fairly informal and friendly, while remaining generally rational and balanced. Choose an appropriate time and place to be more emotive, when needed — showing passion is better than remaining impartial all the time. Above all, avoid "legalese", unnecessary jargon or the stilted prose of a buzzword heavy CV — complex details are fine (and often necessary, when dealing with technical work) but they should still be as readable and enjoyable as possible. 
+####Colour
+Following a maxim of not using pure black or pure white (Gifford, 2011, c.1:08:30) the main colours are xxx and xxx. These can be used in different combinations depending on the requirements. In print, the darker colour can be used on plain paper if needed. 
 
+xxx and xxx provide secondary colours, for use in accents, rollovers. They should not be used as the main colour in a composition.  
 
 ####Logo Concepts
-- KM
-- // as a repetitive device — in non-techy font, a mixture of design and tech
-- too obvious?
-
 A logo is probably the most common association people make with a brand. It is not, however, the most important thing, nor does it necessarily require deep conceptual meaning. 
 
 >Should a logo be self explanatory? It is only by association with a product, a service, a business or a corporation that a logo takes on any real meaning. It derives its meaning and usefulness from the quality of that which it symbolizes. (Rand, 1993, p.58).
 
 He cites Mercedes Benz as an example of a logo whose power is derived not from any literal connection but "is a great symbol, not because its design is great but because it stands for a great product" (ibid, p.61). On this basis, something functional will suffice for our purposes. 
 
-Constraints are often beneficial for designers. In this case, the logo has been designed to be visible and identifiable at small sizes; specifically,  the sixteen pixel square of the favicon of a standard web browser tab. 
+Constraints are often beneficial for designers. In this case, the logo has been designed to be visible and identifiable at small sizes; specifically,  the sixteen pixel square of the favicon of a standard web browser tab. This provides a simple focal point that is appropriate in both online and print contexts, links with the overall typographic style of the brand, and which is simple and flexible enough to work with almost any combination of colours. 
+
+####Look and feel 
+The overall style should be crisp, clean and modern, with a strict grid for layout. Texture should be minimal, and shouldn't try to emulate physical materials unnecessarily. Affordances must be made for usability and accessibility, especially onscreen. For example, links should be obvious without requiring to be hovered over. 
+
+####Tone of voice
+This should be similar to my personal tone of voice — fairly informal and friendly, while remaining generally rational and balanced. Choose an appropriate time and place to be more emotive, when needed — showing passion is better than remaining impartial all the time — but above all, avoid "legalese", unnecessary jargon or the stilted prose of a buzzword heavy CV. Complex details are fine (and often necessary, when dealing with technical work) but they should still be as readable and enjoyable as possible. 
+
+####Photography
+This isn't really important at this point, since any imagery is more likely to be depicting a project I worked on, rather than selected for purely aesthetic value. I'm going to leave this one open for now.  
+
+
+______
+
+###Networking
+Regardless of how well thought out and designed a personal brand is, it's far less important than talking to real people in the creative community. Several people interviewed for this report mentioned the value of networking.
 
 _______
 
 ##Conclusion
 
+- Having a personal brand is important for freelancers when promoting themselves
+- But not as important as personal contacts!
 
 
 ------

@@ -1,3 +1,5 @@
+
+//make sure refs are consistent and proper throughout
 ##Bibliography
 - Ali, Syed Reza | http://www.syedrezaali.com/blog/?page_id=2 | date unknown, retrieved 1/1/2014
 - Byron, D. L. | Publish and prosper: blogging for your business | Berkeley, Calif.: New Riders, 2006
