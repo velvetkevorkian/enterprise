@@ -1,7 +1,6 @@
 
 //make sure refs are consistent and proper throughout
 ##Bibliography
-- Ali, Syed Reza | http://www.syedrezaali.com/blog/?page_id=2 | date unknown, retrieved 1/1/2014
 - Byron, D. L. | Publish and prosper: blogging for your business | Berkeley, Calif.: New Riders, 2006
 - Clark, Igor | Why We’re Not Hiring Creative Technologists | [online] available: http://blog.wk.com/2011/10/21/why-we-are-not-hiring-creative-technologists/ | 2011: retrieved 20/04/2013
 - Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
@@ -14,7 +13,7 @@
 - Heath, Chip | Made to stick: why some ideas take hold and others come unstuck |  London: Arrow Books, 2008
 - Houghton, Robin | Blogging for creatives: how designers, artists, crafters and writers can blog to make contacts, win business and build success | Lewes: Ilex, 2012
 - IDEO | Creative Technologist job listing [online] available: http://www.ideo.com/careers/creative-technologist | date unknown: retrieved 20/04/2013
-- Lee-Delisle, Seb | http://seb.ly/ | date unknown: retrieved 1/1/14
+- Maeda, John | Creative code | London: Thames & Hudson, 2004
 - Monteiro, Mike | Design is a Job | New York: A Book Apart, 2012
 - North East of North | Programme 2012 | Dundee, 2012 | source: http://www.northeastofnorth.com/?event=100000-lux, retrieved 20/12/2013
 - Odden, Lee | Optimize: how to attract and engage more customers by integrating SEO, social media, and content marketing | Hoboken, N.J.: Wiley, 2012
@@ -22,7 +21,7 @@
 - Rand, Paul | Design, Form and Chaos | New Haven/London: Yale University Press, 1993 
 - Roberts, Philip | Career "Advice" | http://latentflip.com/career-advice/ | 2013: retrieved 7/1/2014
 - van den Akker, Patricia | Design & the Market Lecture | Dundee University, 2013 
-- Vantomme, Jan | http://www.cloudswimmers.com/what-we-do/ | date unknown, retrieved 1/1/2014
+
 
 --------
 

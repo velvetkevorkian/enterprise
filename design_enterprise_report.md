@@ -105,10 +105,18 @@ Brendan Dawes is one of the best known figures in the creative technology space,
 This no-nonsense approach mirrors Dawes' straightforward personal style, evident in his talks and writings (e.g. Dawes, 2007). The message is clear-cut, and the graphic style is simple but effective. His work is mostly allowed to carry the narrative. 
 
 ###Case Study: Stefan Goodchild
+Stefan Goodchild brands himself as TripleGeek, and his website shows off the diverse range of work he produces. This is useful for me, as his range of work is similar to my own. How does he pitch himself? 
+
 >My name is Stefan Goodchild and I'm a freelance creative coder, motion graphics & interaction designer, living in Bristol, UK  
 <br>
 I create motion graphics and real time interactive visuals with code using Processing and openFrameworks for concerts, installations, television, and conferences.
 
+Again, the work is the main focus of Goodchild's brand identity, although he uses a more distinctive graphic style, with a striking pink highlight colour used to accent the otherwise restrained palette.  
+
+The use of "creative coder" as a descriptor is interesting. Originating with John Maeda's work at MIT's Aesthetic Computation Group on the late 90s, the term is used to describe programming for artistic purposes (Maeda, 2004). It is not without its issues, though: it pejoratively insinuates that code can be divided into "creative" and "non-creative" segments, whereas in practice almost all coding is an act of creative problem solving, even in cases where the end product is not especially interesting. 
+
+Nonetheless, the focus on technical skills is valuable, given that major agencies like Wieden & Kennedy are coming round to the idea that they wil "[o]nly hire people to work at the crossover of creative and technology if they have strong, practical, current coding skills" (Clark, 2011). 
+  
 
 
 ###Case study: Quartic Llama
