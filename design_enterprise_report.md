@@ -165,9 +165,10 @@ David's analysis is hard to fault. The literal story the site tries to tell is u
 
 ####Other Venues
 
-The point about an "up-to-date LinkedIn" bears further examination. As noted earlier, a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization" (Drew, 2002, p.4).  For our purposes, this includes points of contact such as LinkedIn and Twitter, as well as a professional website and blog, all of which currently have somewhat disparate visual and editorial styles. 
+David's point about an "up-to-date LinkedIn" bears further examination. As noted earlier, a brand is not just a visual identity but "an attitude, enforced through a series of interactions a person has with any one organization" (Drew, 2002, p.4).  For our purposes, this includes points of contact such as LinkedIn and Twitter, as well as a professional website and blog, all of which currently have somewhat disparate visual and editorial styles. 
 
-While blogging may not have the cultural significance that it once did, it can still provide a valuable outlet for displaying abilities which may not be obvious from a portfolio. 
+While blogging may not have the cultural significance that it once did, it can still provide a valuable outlet for displaying abilities which may not be obvious from a portfolio.
+
 >[B]logs have become fantastic PR tools for [a] blogger's business, or their art, or their expertise.  
 <br>
 Everything that happens on your blog can affect people's perceptions of your reputation and whatever it is you're selling. That's also the case elsewhere online (on social networks, for example), but the difference is that your blog is within your control — it is literally your domain. [Houghton, p.156)
