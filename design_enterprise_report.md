@@ -145,7 +145,7 @@ Gianni also noted that people's perception of you and your work can often have a
 
 
 ###Application
-Having established what a brand is, why we would want one and how they can be communicated, how can we apply that to my own personal and professional brand? First we'll have a look at my current brand identity, such as it is, and then try and put into practice some of the lessons we've learned. 
+Having established what a brand is, why they are important for freelancers, and how they can be communicated, how can we apply that to my own personal and professional brand? First we'll have a look at my current brand identity, such as it is, and then try and put into practice some of the lessons we've learned. 
 
 
 ####Benchmarking
@@ -182,13 +182,16 @@ Other online venues, for example social media like Twitter, LinkedIn and Google+
 In these cases, ensuring they all present a common front, at least as far as possible, means making the most of the available customisation options — while these vary from service to service, using a style guide can at least make them as cohesive as possible.
 
 ####Values
-One of the first exercises featured in the Creative Enterprise Toolkit (Nesta, check date, pp.10-14) is to lay out the values to guide a prospective business. These were the most important things I identified during that exercise, focusing on public facing ones:
+One of the first exercises featured in the Creative Enterprise Toolkit (Nesta, check date, pp.10-14) is to lay out the values to guide a prospective business. These were the most important things I identified during that exercise:
 
 - Being proud of the things I put into the world. 
+- Conversely, not working with clients whose ethics I disagree with.
 - Using innovative combinations of design and technology as means for solving problems and creating experiences.
+- Contributing back to the open source tools that have allowed me to pursue this path.
+- Having a healthy work/life balance.
 
 
-####What's my story? [stories?]
+####What's my story?
 So, how can we distil those values into a succinct elevator pitch, taking into account the lessons of our case studies? This is what would go on a business card, for example, or as the single line summary on the front page of my website. The toolkit (Nesta, Book 2, p.2) recommends beginning with two sentences: "What is it that I do?" and "Why should my customers care?". In this case, the first might be:
 
 >I design and develop interactive experiences.  
@@ -269,17 +272,20 @@ This isn't really important at this point, since any imagery is more likely to b
 ______
 
 ###Networking
-Regardless of how well thought out and designed a personal brand is, it's far less effective than talking to other people in the creative community. Clare Brennan, Rory Gianni and Malath Abbas all made much the same point in conversation: being present and visible, whether as a practitioner, a facilitator, or both, is vital to establishing a creative freelance business. 
+Regardless of how well thought out and designed a personal brand is, it's far less effective than talking to other people in the creative community. Clare Brennan, Rory Gianni and Malath Abbas all made much the same point in conversation: being present and visible, whether as a practitioner, a facilitator, or both, is vital to establishing a creative freelance business. Wherever the business ends up being based (which, at the time of writing, is by no means certain), attending local networking eventss is essential. There are Tech Meetups in cities across Scotland  and beyond, as well as a host of other more specialised meetings. On a wider scale, being seen as an active participant in creative communities, be that on Twitter, through the code sharing platform Github, on forums dedicated to particular tools, or elsewhere are a necessary activity to maintain a network of people who might be able to throw you work in the future. 
 
 _______
 
 ##Conclusion
 
-- Having a personal brand is important for freelancers when promoting themselves
-- But not as important as personal contacts!
-- image and brand are vital to how people perceive you, even when you don't necessarily want them to be
-- Having a clear story to tell, and for others to tell about you, helps get you known
-- Keeping in mind the SUCCES checklist can help with that. 
+While branding, marketing and networking are, to many creative freelancers, distractions from their primary interest of making things, as we've seen, they are vital considerations which have to be considered constantly over the life cycle of a freelance practice. 
+
+It's not all bad though: brands are, at heart, collections of stories. A personal brand is a personal story; as humans, we tell stories all the time. Having a coherent narrative that can adapt to different circumstances comes naturally to us; with a little thought and attention to some best practices, like the SUCCES checklist we looked at earlier, we have something that will stay with people.
+
+We mustn't forget that that is the ultimate goal here: to have our work, and our stories, stay with people. Cultivating an image and a brand through our stories affects how we are perceived. Simple techniques, like keeping a consistent and thought through visual style and tone of voice, reinforces it. That perception is one of the most important factors in getting work, even for people who would rather let their work speak for them. 
+
+The work can only tell part of the story. The worker has to be responsible for the rest. I hope this report has provided a blueprint for doing so.  
+
 
 
 ------
