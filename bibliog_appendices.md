@@ -26,6 +26,7 @@
 - Rand, Paul | Design, Form and Chaos | New Haven/London: Yale University Press, 1993 
 - Roberts, Philip | Career "Advice" | source: http://latentflip.com/career-advice/ | 2013: retrieved 7/1/2014
 - van den Akker, Patricia | Design & the Market Lecture | Dundee University, 2013 
+- Visnjic, Filip | Creative Applications Network | source: http://www.creativeapplications.net/ | date unknown, retrieved 20/04/2013
 
 
 --------

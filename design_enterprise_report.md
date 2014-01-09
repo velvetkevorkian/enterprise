@@ -205,7 +205,7 @@ Although the phrase "creative coder" does have a slightly pejorative overtone, a
 
 Answering the second question — "Why should my customers care?" — means I have get a bit more specific about the actual services I'm offering. Again, it needs to hit as much of the SUCCES checklist as possible, although this isn't necessary something that would be presented to potential clients — it's values to guide that process, though. The bottom line is I can make something that works for your users' needs that you don't have the skills to conceptualise or build. Phrased in a slightly less blunt fashion: 
 
->I can make digital products and services to enhance your and your users' experiences.
+>I can make digital products and services to enhance you and your users' experiences.
 
 Now that we have a core framework for the business' values, how do we put that into practice?
 
