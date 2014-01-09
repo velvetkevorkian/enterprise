@@ -237,9 +237,9 @@ Not all brands necessarily have such detailed guidelines covering all these poin
 Using a classic serif header/sans-serif combination, Linux Biolinum G will serve as a heading font, with Linux Libertine G for body copy. Fortunately, both are available for free use, and provide an excellent balance of restrained modern styling and excellent readability at small sizes. This approach shows a tasteful approach to design, without the overtly technological slant the previously used font, Jura, had. 
 
 ####Colour
-Following a maxim of not using pure black or pure white (Gifford, 2011, c.1:08:30) the main colours are xxx and xxx. These can be used in different combinations depending on the requirements. In print, the darker colour can be used on plain paper if needed. 
+Following a maxim of not using pure black or pure white (Gifford, 2011, c.1:08:30) the main colours chosen are very light grey and very dark grey. These can be used in different combinations depending on the requirements. In print, the darker colour can be used on plain paper if needed. 
 
-xxx and xxx provide secondary colours, for use in accents, rollovers. They should not be used as the main colour in a composition.  
+Orange and purple provide secondary colours, for use in accents. They should not be used as the main colour in a composition.  
 
 ####Logo Concepts
 A logo is probably the most common association people make with a brand. It is not, however, the most important thing, nor does it necessarily require deep conceptual meaning. 
