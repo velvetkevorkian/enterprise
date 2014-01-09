@@ -10,6 +10,7 @@
 - Dawes, Brendan | Analog in, digital out: Brendan Dawes on interaction design | Berkeley, Calif., 2007
 - Dawes, Brendan | http://brendandawes.com/ | date unknown, retrieved 1/1/2014
 - Drew, Keith | Online branding | London: Laurence King, 2002
+- Fried, Jason | Rework: change the way you work forever | London: Vermilion, 2010
 - Gifford, Hoss | Things I Have Learned | 2011 | https://vimeo.com/21441042
 - Goodchild, Stefan | http://triplegeek.com/ | date unknown, retrieved 1/1/2014
 - Hall, Erika | Just Enough Research | New York: A Book Apart, 2013
