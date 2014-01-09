@@ -28,9 +28,9 @@ This report will:
 ---
 
 ##Introduction
-Interaction Design is a relatively new field, and is somewhat nebulously defined. We occupy a space "at the intersection of art, media and technology" (Visnjic, date unkown), and expand out to be part of the general creative technology discipline. If we look at previous Digital Interaction Design degree shows, we see a range of designs, from apps to artistic hardware to gestural interfaces. Creative technology is, perhaps more than any other discipline, a synthesis of other areas of design: graphics, products, services, even software. My ultimate goal, however, can be summed up in a simple phrase: to do interesting work using interactive technology, or, to borrow a phrase from the masters, "create beautiful and compelling interactive experiences" (IDEO, date unknown). 
+Interaction Design is a relatively new field, and is somewhat nebulously defined. We occupy a space "at the intersection of art, media and technology" (Visnjic, date unkown), and expand out to be part of the wider creative technology discipline. If we look at previous Digital Interaction Design degree shows, we see a range of designs, from apps to artistic hardware to gestural interfaces and websites. Creative technology is, perhaps more than any other discipline, a synthesis of other areas of design: graphics, products, services, even software. My ultimate goal, however, can be summed up in a simple phrase: to do interesting work using interactive technology, or, to borrow a phrase from the masters, "create beautiful and compelling interactive experiences" (IDEO, date unknown). 
 
-A key strength of a Digital Interaction Design degree can be knowledge of many different interactive technologies. The corollary of this, however, is that it becomes difficult to have in-depth knowledge of a single aspect or piece of technology. Having the opportunity to work in a variety of different jobs, using assorted tools is attractive. The challenge is to ensure that breadth of knowledge doesn't sacrifice depth. For example, Clark (2011), talks about not hiring creative technologists with a breadth of shallow skills- they look for people with excellent technical skills. Although this is in reference to hiring employees, the same criteria are going to be required in freelance work too.
+A key strength of a Digital Interaction Design degree is a knowledge of many different interactive technologies. The corollary of this, however, is that it becomes difficult to have in-depth knowledge of a single aspect or piece of technology. Having the opportunity to work in a variety of different jobs, using assorted tools is attractive. The challenge is to ensure that breadth of knowledge doesn't sacrifice depth. For example, Clark (2011), talks about not hiring creative technologists with a breadth of shallow skills — they look for people with excellent technical skills. Although this is in reference to hiring employees, the same criteria are going to be required in freelance work too.
 
 One of the problems for someone trying to enter this area, then, is essentially one of branding. How can one present themselves so that they effectively communicate the work that they do, when most people aren't familiar with either the breadth or depth of that work? How can they attract the kind of work they're interested in, when that work can span such a  wide range? 
 
@@ -73,19 +73,19 @@ Fortunately, there are manuals for this sort of thing. One of these is *Made to 
 
 Ideas that don't follow these rules can still stay with people, and we don't necessarily have to check off every point. They do, however, provide a useful guide for how we can communicate complex concepts clearly. Let's have a look at how we can apply the SUCCESs principles to branding and presenting our portfolio website, and telling our professional story. 
 
-####Simplicity
+1. **Simplicity**  
 This is one of the key areas for me to focus on. Having an elevator pitch that is as concise as possible is one of the main things currently missing from my professional identity (such as it is). The idea of *interaction designer* or *interactive developer* or *creative technologist* are all complex, multi-level concepts with no canonical definition. Being able to break that down into something that can be understood without additional explanation is vital. It's even more difficult when you're afflicted by what the Heaths refer to as *the curse of knowledge*: once you know something, it's incredibly difficult to imagine not knowing that any more, and as a result we tend to explain things which take for granted that level of knowledge. While complex ideas can be sticky, they arise from layers of simplicity rather than assuming a higher level of knowledge from the start.
 
-####Unexpectedness
+1. **Unexpectedness**  
 The juxtaposition of design and technology that is the creative technologist's trademark can come in useful here. This is, perhaps, an area where having a diversified portfolio can definitely be a strength, not a weakness. 
 
-####Concreteness
+3. **Concreteness**  
 Having a portfolio online (rather than, say, just a text heavy CV) goes some way towards providing something concrete for people to relate to. Having projects which are entirely online means people can interact with them directly, increasing their value as evidence. Conversely, some of the more "designy" projects will require some thought about how they're presented to avoid being too abstract. 
 
-####Credibility
+4. **Credibility**  
 Again, having evidence of projects in the wild, and especially some of the commercial work I've done, should provide credibility. 
 
-####Emotions
+5. **Emotions**  
 This is a tricky one. What kind of emotions do I want to evoke with my portfolio (aside from "take my money!")? Awe and wonder would be ideal but depending on that would be hubristic in the extreme.
 
 ####Stories
@@ -101,7 +101,7 @@ Brendan Dawes is one of the best known figures in the creative technology space,
 
 >Brendan Dawes is a designer and artist exploring the interaction of objects, people, technology and art using an eclectic mix of digital and analog materials, for himself and for clients around the globe. (Dawes, date unknown)
 
-This no-nonsense approach mirrors Dawes' straightforward personal style, evident in his talks and writings (e.g. Dawes, 2007). The message is clear-cut, and the graphic style is simple but effective. His work is mostly allowed to carry the narrative. 
+This no-nonsense approach mirrors Dawes' straightforward personal style, evident in his talks and writings (e.g. Dawes, 2007). The message is clear-cut, and the graphic style is simple but effective. His work is mostly allowed to carry the narrative. In terms of the SUCCES checklist, he scores highly for concreteness (thanks to the number of portfolio pieces), credibility, and stories: every piece he points to has its own story behind it. 
 
 ###Case Study: Stefan Goodchild
 Stefan Goodchild brands himself as TripleGeek, and his website shows off the diverse range of work he produces. This is useful for me, as his range of work is similar to my own. How does he pitch himself? 
@@ -206,6 +206,7 @@ Answering the second question — "Why should my customers care?" — means I ha
 
 >I can make digital products and services to enhance your and your users' experiences.
 
+Now that we have a core framework for the business' values, how do we put that into practice?
 
 
 
