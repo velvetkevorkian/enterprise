@@ -183,9 +183,8 @@ In these cases, ensuring they all present a common front, at least as far as pos
 ####Values
 One of the first exercises featured in the Creative Enterprise Toolkit (Nesta, check date, pp.10-14) is to lay out the values to guide a prospective business. These were the most important things I identified during that exercise, focusing on public facing ones:
 
-- Being proud of the things I put into the world
-- Using technology creatively
-- Design as a means for solving problems
+- Being proud of the things I put into the world. 
+- Using innovative combinations of design and technology as means for solving problems and creating experiences.
 
 
 ####What's my story? [stories?]
@@ -201,15 +200,11 @@ That's a bit better — it references both design and technology.
 
 >I'm a creative coder working where people, design and technology meet.
 
-Although the phrase "creative coder" does have a slightly pejorative overtone, as mentioned earlier, it does summarise a lot of key concepts. With a little explanation 
+Although the phrase "creative coder" does have a slightly pejorative overtone, as mentioned earlier, it does summarise a lot of key concepts. It hits more of the "sticky" beats, too: there's an emotional element to "creative", "coder" is more concrete, and phrasing it as "people, design, and technology" is a simpler concept than "interaction design", for example.
 
-Answers to the second question — "Why should my customers care?" — mean I have to decide what approach to take. Is it better to appeal on a personal level or on a strictly commercial basis?
+Answering the second question — "Why should my customers care?" — means I have get a bit more specific about the actual services I'm offering. Again, it needs to hit as much of the SUCCES checklist as possible, although this isn't necessary something that would be presented to potential clients — it's values to guide that process, though. The bottom line is I can make something that works for your users' needs that you don't have the skills to conceptualise or build. Phrased in a slightly less blunt fashion: 
 
-> I can make things to make your life or your job easier and better.
-
-That's very vague and all-encompassing. Something a bit more specific is needed.
-
->
+>I can make digital products and services to enhance your and your users' experiences.
 
 
 
