@@ -62,7 +62,7 @@ The stories that others tell about a business can be even more important than th
 ###On making ideas stick
 Communicating what we do to people who have little to no awareness of the surrounding area can be problematic. Without a clear and concise explanation, the chances of them understanding what interaction design is are slim — and the chances of getting paid work from them is slimmer still. What we need is a method for making sure our message is easily understood and remembered, without sacrificing accuracy.
 
-Fortunately, there are manuals for this sort of thing. One of these is *Made to Stick*, by the brothers Heath. They propose the concept of "stickiness" — ideas which are both memorable and meaningful — and offer "SUCCES", a six point checklist for making ideas "sticky":
+Fortunately, there are manuals for this sort of thing. One of these is *Made to Stick*, by Chip and Dan Heath (Heath, 2004). They propose the concept of "stickiness" — ideas which are both memorable and meaningful — and offer "SUCCES", a six point checklist for making ideas "sticky":
 
 1. Simplicity
 2. Unexpectedness
@@ -88,37 +88,37 @@ Again, having evidence of projects in the wild, and especially some of the comme
 5. **Emotions**  
 This is a tricky one. What kind of emotions do I want to evoke with my portfolio (aside from "take my money!")? Awe and wonder would be ideal but depending on that would be hubristic in the extreme.
 
-####Stories
+6. **Stories**
 This is the opportunity to tie all the preceding points together. Creating a coherent overall narrative is an opportunity to put the previous points into action, while the stories of individual projects can form layers of depth which reinforce that. 
 
 
-###Competitor Analysis
-While the creative technology industry is relatively small, many of the people working in the field are quite accessible. Although a lot of work happens out of the public eye within agencies, and thus goes uncredited, there are enough influential freelancers with online presences that it is possible to get a flavour of how they brand themselves publicly. As this pair of online portfolios shows, there are a number of different approaches one can take to telling the story of who you are and what you do. 
+###Approaches to branding
+While the creative technology industry is relatively small, many of the people working in the field are quite accessible. Although a lot of work happens out of the public eye within agencies, and thus goes uncredited, there are enough influential freelancers with online presences that it is possible to get a flavour of how they brand themselves publicly. As this collection of online portfolios and interviews shows, there are a number of different approaches one can take to telling the story of who you are and what you do. 
 
 
-###Case Study: Brendan Dawes
-Brendan Dawes is one of the best known figures in the creative technology space, having written several books on interaction design and innovative uses of Flash. He was creative director at the digital agency Magnetic North before going freelance.  His brief introduction is an effective summary of what he does:
+####Case Study: Brendan Dawes
+Brendan Dawes is one of the best known figures in the creative technology space, having written several books on interaction design and innovative uses of Flash. He was creative director at the digital agency Magnetic North before going freelance in 2012. His brief introduction is an effective summary of what he does:
 
 >Brendan Dawes is a designer and artist exploring the interaction of objects, people, technology and art using an eclectic mix of digital and analog materials, for himself and for clients around the globe. (Dawes, date unknown)
 
 This no-nonsense approach mirrors Dawes' straightforward personal style, evident in his talks and writings (e.g. Dawes, 2007). The message is clear-cut, and the graphic style is simple but effective. His work is mostly allowed to carry the narrative. In terms of the SUCCES checklist, he scores highly for concreteness (thanks to the number of portfolio pieces), credibility, and stories: every piece he points to has its own story behind it. 
 
-###Case Study: Stefan Goodchild
+####Case Study: Stefan Goodchild
 Stefan Goodchild brands himself as TripleGeek, and his website shows off the diverse range of work he produces. This is useful for me, as his range of work is similar to my own. How does he pitch himself? 
 
 >My name is Stefan Goodchild and I'm a freelance creative coder, motion graphics & interaction designer, living in Bristol, UK  
 <br>
 I create motion graphics and real time interactive visuals with code using Processing and openFrameworks for concerts, installations, television, and conferences.
 
-Again, the work is the main focus of Goodchild's brand identity, although he uses a more distinctive graphic style, with a striking pink highlight colour used to accent the otherwise restrained palette.  
+Again, the work is the main focus of Goodchild's brand identity, although he uses a more distinctive graphic style, with a striking pink highlight colour used to accent the otherwise restrained palette, and a nicely designed logo with both static (for the website) and animated (for his showreel) versions. 
 
-The use of "creative coder" as a descriptor is interesting. Originating with John Maeda's work at MIT's Aesthetic Computation Group on the late 90s, the term is used to describe programming for artistic purposes (Maeda, 2004). It is not without its issues, though: it pejoratively insinuates that code can be divided into "creative" and "non-creative" segments, whereas in practice almost all coding is an act of creative problem solving, even in cases where the end product is not especially interesting. 
+Goodchild's use of "creative coder" as a descriptor is interesting. Originating with John Maeda's work at MIT's Aesthetic Computation Group on the late 90s, the term is widely used to describe programming for design and artistic purposes (Maeda, 2004). It is not without its issues, though: it pejoratively insinuates that code can be divided into "creative" and "non-creative" segments, whereas in practice almost all coding is an act of creative problem solving, even in cases where the end product is not especially interesting. 
 
-Nonetheless, the focus on technical skills is valuable, given that major agencies like Wieden & Kennedy are coming round to the idea that they will "[o]nly hire people to work at the crossover of creative and technology if they have strong, practical, current coding skills" (Clark, 2011). The phrase is prominent in conferences (e.g. Bell, 2012) and in general discourse (e.g. Cinder, date unknown), so there may well be a case to be made for using "creative coding" as a way of differentiating from creative disciplines with less technical emphasis.
+Nonetheless, the focus on technical skills is valuable, given that major agencies like Wieden & Kennedy are coming round to the idea that they will "[o]nly hire people to work at the crossover of creative and technology if they have strong, practical, current coding skills" (Clark, 2011). The phrase is prominent in industry conferences (e.g. Bell, 2012) and in general discourse (e.g. Cinder, date unknown), so there may well be a case to be made for using "creative coding" as a way of differentiating from creative disciplines with less technical emphasis.
   
 
 
-###Case study: Quartic Llama
+####Case study: Quartic Llama
 Quartic Llama are a Dundee-based games studio, founded in 2012 by graduates from the University of Abertay. In addition to their, for lack of a better term, "normal" games development work, they also collaborate extensively with cultural organisations, creating games and experiences. I first came across them when their piece *100,000 Lux* was featured as part of Dundee's 2012 NEoN festival. A site specific performance using the coloured lighting on one of Abertay University's main buildings, combined with a striking soundtrack derived from solar observations, *100,000 Lux* marked Quartic Llama out as not your average game developer. Their collaboration with the National Theatre of Scotland, *Other*, is a location based augmented reality experience set in the streets of Dundee. At first glance it has little in common with either regular games or a piece like *100,000 Lux*, but after talking with Malath Abbas, an artist, designer and one of the founders of Quartic Llama, it's easier to pull together the threads running through their work. 
 
 The identity that Quartic Llama present on their website is actually quite enigmatic. According to Malath, this is a deliberate ploy to draw people in. For him, crafting an image is all about telling a story.
@@ -131,10 +131,10 @@ The Quartic Llama team are careful to tailor that narrative depending on who the
 
 This is an important point. Having a selection of messages to tell about your work, tailored to specific audiences, obviously increases the chance of your message finding a receptive audience. 
 
-Having different levels of narrative to expand to can be important too. You can't tell the exact same story in the 160 characters of a Twitter biography that you can in, say, a five minute face-to-face conversation. The layering of simple elements can create a complex overall picture, however, as noted by Heath & Heath (pp48). In fact, this is one of their key points for how make ideas "stick".
+Having different levels of narrative to expand to can be important too. You can't tell the exact same story in the 160 characters of a Twitter biography that you can in, say, a five minute face-to-face conversation. The layering of simple elements can create a complex overall picture, however. (Heath, 2004, p.48). In fact, this is identified as one of the key points for how to make ideas "stick".
 
 
-###Case Study: Rory Gianni
+####Case Study: Rory Gianni
 For a different perspective, I spoke to Rory Gianni, a freelance web developer based out of Dundee's Fleet Collective. Having worked as a technology consultant for a variety of small businesses and startups, he has been moving towards focusing on the sustainability sector. He is also a CleanWeb facilitator, a movement which aims to help solve environmental problems with a combination of technology and design skills. Unlike similar movements, such as "Green IT", they do not focus so heavily on pure engineering solutions, but include elements of design.
 
 This is key to Gianni's attempt to diversify his interests. Although the fact that he is focusing more on sustainability could be seen as a narrowing of his focus, bringing in elements such as service design is widening his role within that sector. This separation between the role of the individual and the industry they're operating in is key to his strategy.  
@@ -145,7 +145,7 @@ Gianni also noted that people's perception of you and your work can often have a
 
 
 ###Application
-Having established what a brand is, why we would want one and how they can be communicated. How can we apply that to my own personal and professional brand? First we'll have a look at my current brand identity, such as it is, and then try and put into practice some of the lessons we've learned. 
+Having established what a brand is, why we would want one and how they can be communicated, how can we apply that to my own personal and professional brand? First we'll have a look at my current brand identity, such as it is, and then try and put into practice some of the lessons we've learned. 
 
 
 ####Benchmarking
