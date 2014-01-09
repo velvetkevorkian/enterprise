@@ -15,11 +15,11 @@
 ##Executive Summary 
 This report will:
 
-- Examine creative technology in its current form and the difficulties its ephemeral and ill-defined nature presents to practitioners and clients.  
+- Briefly examine the creative technology sector in its current form and the difficulties its ephemeral and ill-defined nature presents to practitioners and clients.  
 - Take a brief introduction to branding and how it can be applied to creative freelancers.
-- See how branding is mainly a matter of telling stories and communicating ideas, and look at some methods for communicating in ways that are clear and memorable.
-- Look at some case studies of people and studios who work across different disciplines, and see how they bridge the gaps between them and how they communicate their stories.
-- Examine the author's current branding strategy,benchmark its effectiveness, and present a revised strategy for a coherent, professional brand identity.
+- Demonstrate that branding is mainly a matter of telling stories and communicating ideas, and look at some methods for communicating in ways that are clear and memorable.
+- Look at some case studies of people and studios who work across different creative technology disciplines, and see how they bridge the gaps between them and how they communicate their stories.
+- Examine the author's current branding strategy, benchmark its effectiveness, and present a revised strategy for a coherent, professional brand identity.
 - Show evidence of how that strategy can be executed. 
 
 
