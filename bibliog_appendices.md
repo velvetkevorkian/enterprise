@@ -5,6 +5,7 @@
 - Bell, Andrew | Feeding babies with creative code | https://vimeo.com/51533137 2012
 - Byron, D. L. | Publish and prosper: blogging for your business | Berkeley, Calif.: New Riders, 2006
 - Clark, Igor | Why We’re Not Hiring Creative Technologists | [online] available: http://blog.wk.com/2011/10/21/why-we-are-not-hiring-creative-technologists/ | 2011: retrieved 20/04/2013
+- Cinder | http://libcinder.org/ | date unknown, retrieved 9/1/2014
 - Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
 - Dawes, Brendan | Analog in, digital out: Brendan Dawes on interaction design | Berkeley, Calif., 2007
 - Dawes, Brendan | http://brendandawes.com/ | date unknown, retrieved 1/1/2014

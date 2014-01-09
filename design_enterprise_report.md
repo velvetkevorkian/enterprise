@@ -114,7 +114,7 @@ Again, the work is the main focus of Goodchild's brand identity, although he use
 
 The use of "creative coder" as a descriptor is interesting. Originating with John Maeda's work at MIT's Aesthetic Computation Group on the late 90s, the term is used to describe programming for artistic purposes (Maeda, 2004). It is not without its issues, though: it pejoratively insinuates that code can be divided into "creative" and "non-creative" segments, whereas in practice almost all coding is an act of creative problem solving, even in cases where the end product is not especially interesting. 
 
-Nonetheless, the focus on technical skills is valuable, given that major agencies like Wieden & Kennedy are coming round to the idea that they wil "[o]nly hire people to work at the crossover of creative and technology if they have strong, practical, current coding skills" (Clark, 2011). Given the prominence of the phrase in conferences (e.g. Bell, 2012) and in general discourse, there may well be a case to be made for using "creative coding" as a way of differentiating from creative disciplines with less technical emphasis.
+Nonetheless, the focus on technical skills is valuable, given that major agencies like Wieden & Kennedy are coming round to the idea that they will "[o]nly hire people to work at the crossover of creative and technology if they have strong, practical, current coding skills" (Clark, 2011). Given the prominence of the phrase in conferences (e.g. Bell, 2012) and in general discourse (e.g. Cinder, date unknown), there may well be a case to be made for using "creative coding" as a way of differentiating from creative disciplines with less technical emphasis.
   
 
 
