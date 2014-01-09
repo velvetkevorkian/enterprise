@@ -92,10 +92,9 @@ This is a tricky one. What kind of emotions do I want to evoke with my portfolio
 This is the opportunity to tie all the preceding points together. Creating a coherent overall narrative is an opportunity to put the previous points into action, while the stories of individual projects can form layers of depth which reinforce that. 
 
 
-###Competitor/Collaborator Analysis
-While the creative technology industry is relatively small, many of the people working in the field are quite accessible. While many work within agencies, and thus go uncredited, there are enough influential freelancers with online presences that it is possible to get a flavour of how they brand themselves publicly. As this selection of online portfolios shows, there are a number of different approaches one can take to telling the story of who you are and what you do. 
+###Competitor Analysis
+While the creative technology industry is relatively small, many of the people working in the field are quite accessible. Although a lot of work happens out of the public eye within agencies, and thus goes uncredited, there are enough influential freelancers with online presences that it is possible to get a flavour of how they brand themselves publicly. As this pair of online portfolios shows, there are a number of different approaches one can take to telling the story of who you are and what you do. 
 
-Of these five examples, three use their name and personality as their main brand. One brands themselves differently, then explains that it does represent him alone, while the final one uses a studio name, although my understanding is that it is a single person operation.
 
 ###Case Study: Brendan Dawes
 Brendan Dawes is one of the best known figures in the creative technology space, having written several books on interaction design and innovative uses of Flash. He was creative director at the digital agency Magnetic North before going freelance.  His brief introduction is an effective summary of what he does:
@@ -115,7 +114,7 @@ Again, the work is the main focus of Goodchild's brand identity, although he use
 
 The use of "creative coder" as a descriptor is interesting. Originating with John Maeda's work at MIT's Aesthetic Computation Group on the late 90s, the term is used to describe programming for artistic purposes (Maeda, 2004). It is not without its issues, though: it pejoratively insinuates that code can be divided into "creative" and "non-creative" segments, whereas in practice almost all coding is an act of creative problem solving, even in cases where the end product is not especially interesting. 
 
-Nonetheless, the focus on technical skills is valuable, given that major agencies like Wieden & Kennedy are coming round to the idea that they wil "[o]nly hire people to work at the crossover of creative and technology if they have strong, practical, current coding skills" (Clark, 2011). 
+Nonetheless, the focus on technical skills is valuable, given that major agencies like Wieden & Kennedy are coming round to the idea that they wil "[o]nly hire people to work at the crossover of creative and technology if they have strong, practical, current coding skills" (Clark, 2011). Given the prominence of the phrase in conferences (e.g. Bell, 2012) and in general discourse, there may well be a case to be made for using "creative coding" as a way of differentiating from creative disciplines with less technical emphasis.
   
 
 
@@ -142,7 +141,7 @@ This is key to Gianni's attempt to diversify his interests. Although the fact th
 
 He did acknowledge the potential pitfalls inherent in this tactic. In narrowing his focus to the sustainability sector, is he discouraging potential clients from outside that area? Will being seen as a specialist in that area attract enough extra work to offset that? These are questions Gianni is grappling with currently, 
 
-Gianni also noted that people's perception of you and your work can often have a more significant impact than we might think. Being seen as an organiser or facilitator, a speaker at conferences, or teaching can all make people have a different opinion of you, regardless of the the objective quality of your work. This speaks to the idea of concreteness as suggested by the Heath brothers: if people can associate your work with something they've personally experienced, that can be a big win. 
+Gianni also noted that people's perception of you and your work can often have a more significant impact than we might think. Being seen as an organiser or facilitator, a speaker at conferences, or teaching can all make people have a higher opinion of you, regardless of the the objective quality of your work. This speaks to the idea of concreteness as suggested by the Heath brothers: if people can associate your work with something they've personally experienced, that can be a big win. 
 
 
 ###Application

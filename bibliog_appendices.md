@@ -1,6 +1,8 @@
 
 //make sure refs are consistent and proper throughout
 ##Bibliography
+
+- Bell, Andrew | Feeding babies with creative code | https://vimeo.com/51533137 2012
 - Byron, D. L. | Publish and prosper: blogging for your business | Berkeley, Calif.: New Riders, 2006
 - Clark, Igor | Why We’re Not Hiring Creative Technologists | [online] available: http://blog.wk.com/2011/10/21/why-we-are-not-hiring-creative-technologists/ | 2011: retrieved 20/04/2013
 - Davis, Melissa | More than a name: an introduction to branding | Lausanne : AVA Publishing, 2005
@@ -13,6 +15,7 @@
 - Heath, Chip | Made to stick: why some ideas take hold and others come unstuck |  London: Arrow Books, 2008
 - Houghton, Robin | Blogging for creatives: how designers, artists, crafters and writers can blog to make contacts, win business and build success | Lewes: Ilex, 2012
 - IDEO | Creative Technologist job listing [online] available: http://www.ideo.com/careers/creative-technologist | date unknown: retrieved 20/04/2013
+- Levin, Golan (2012) *New-Media Artists are the Unpaid R&D of Ad Agencies* [online] available: http://www.flong.com/blog/2012/new-media-artists-are-the-unpaid-research-division-of-ad-agencies/ [retrieved 20/04/2013]
 - Maeda, John | Creative code | London: Thames & Hudson, 2004
 - Monteiro, Mike | Design is a Job | New York: A Book Apart, 2012
 - North East of North | Programme 2012 | Dundee, 2012 | source: http://www.northeastofnorth.com/?event=100000-lux, retrieved 20/12/2013
